@@ -3,46 +3,39 @@
 
   
 
-  <title>csquared</title>
+  <title>tortoise and badger</title>
   <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.3</generator>
-    <icon>http://candychang.github.io/apple-touch-icon-precomposed.png</icon>
-  <subtitle>Candy Chang's portfolio</subtitle>
-  <link href="http://candychang.github.io/atom.xml" rel="self"/>
-  <link href="http://candychang.github.io/" rel="alternate" type="text/html"/>
-  <updated>2016-01-19T12:59:13-08:00</updated>
-  <id>http://candychang.github.io/</id>
+    <icon>http://127.0.0.1:4000/apple-touch-icon-precomposed.png</icon>
+  <subtitle>Candy Chang's personal website and portfolio</subtitle>
+  <link href="http://127.0.0.1:4000/atom.xml" rel="self"/>
+  <link href="http://127.0.0.1:4000/" rel="alternate" type="text/html"/>
+  <updated>2016-01-20T01:53:14-08:00</updated>
+  <id>http://127.0.0.1:4000/</id>
   <author>
-    <name></name>
-    <uri>http://candychang.github.io/</uri>
-    
+    <name>Candy Chang</name>
+    <uri>http://127.0.0.1:4000/</uri>
+    <email>candyichang@gmail.com</email>
   </author>
 
   
   <entry>
-    <title>Welcome to Jekyll!</title>
-    <link href="http://candychang.github.io/jekyll/update/welcome-to-jekyll/"/>
-    <updated>2016-01-18T21:53:58-08:00</updated>
-    <id>http://candychang.github.io/jekyll/update/welcome-to-jekyll</id>
+    <title>Hello World</title>
+    <link href="http://127.0.0.1:4000/articles/hello-world/"/>
+    <updated>2016-01-19T00:00:00-08:00</updated>
+    <id>http://127.0.0.1:4000/articles/hello-world</id>
     <author>
-      <name></name>
-      <uri>http://candychang.github.io/</uri>
-      
+      <name>Candy Chang</name>
+      <uri>http://127.0.0.1:4000/</uri>
+      <email>candyichang@gmail.com</email>
     </author>
     <content type="html">
-      
-      &lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+      &lt;img src=&quot;http://127.0.0.1:4000/images/notebook_a_1024x256.png&quot;&gt;&lt;br/&gt;
+      &lt;p&gt;I’m planning to use this as a digital sketchbook.
+It’s an experiment, half to get me to create more content on a regular basis, and half to log the random stuff I do have in my notebooks etc.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Sometimes it’ll be writing, sometimes it’ll be random crafts I’ve made for someone, sometimes it’ll actually be sketches.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Let’s see how it goes.&lt;/p&gt;
 
 
     </content>
