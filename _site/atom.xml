@@ -5,31 +5,31 @@
 
   <title>tortoise and badger</title>
   <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.3</generator>
-    <icon>http://127.0.0.1:4000/apple-touch-icon-precomposed.png</icon>
+    <icon>http://candychang.github.io/apple-touch-icon-precomposed.png</icon>
   <subtitle>Candy Chang's personal website and portfolio</subtitle>
-  <link href="http://127.0.0.1:4000/atom.xml" rel="self"/>
-  <link href="http://127.0.0.1:4000/" rel="alternate" type="text/html"/>
-  <updated>2016-01-20T01:53:14-08:00</updated>
-  <id>http://127.0.0.1:4000/</id>
+  <link href="http://candychang.github.io/atom.xml" rel="self"/>
+  <link href="http://candychang.github.io/" rel="alternate" type="text/html"/>
+  <updated>2016-01-20T02:03:16-08:00</updated>
+  <id>http://candychang.github.io/</id>
   <author>
     <name>Candy Chang</name>
-    <uri>http://127.0.0.1:4000/</uri>
+    <uri>http://candychang.github.io/</uri>
     <email>candyichang@gmail.com</email>
   </author>
 
   
   <entry>
     <title>Hello World</title>
-    <link href="http://127.0.0.1:4000/articles/hello-world/"/>
+    <link href="http://candychang.github.io/articles/hello-world/"/>
     <updated>2016-01-19T00:00:00-08:00</updated>
-    <id>http://127.0.0.1:4000/articles/hello-world</id>
+    <id>http://candychang.github.io/articles/hello-world</id>
     <author>
       <name>Candy Chang</name>
-      <uri>http://127.0.0.1:4000/</uri>
+      <uri>http://candychang.github.io/</uri>
       <email>candyichang@gmail.com</email>
     </author>
     <content type="html">
-      &lt;img src=&quot;http://127.0.0.1:4000/images/notebook_a_1024x256.png&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;http://candychang.github.io/images/notebook_a_1024x256.png&quot;&gt;&lt;br/&gt;
       &lt;p&gt;I’m planning to use this as a digital sketchbook.
 It’s an experiment, half to get me to create more content on a regular basis, and half to log the random stuff I do have in my notebooks etc.&lt;/p&gt;
 
