@@ -319,6 +319,7 @@
 .author-content {
 	word-wrap: break-word;
 	padding-left: 100px; //avatar width + 20px padding
+	padding-bottom: $gutter;
 	min-height: 80px; //mirrors avatar height
 }
 .author-name {

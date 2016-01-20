@@ -1,4 +1,8 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: home
+  url: site.url
+
+- title: linkedin
+  url: https://www.linkedin.com/in/candyichang
+
