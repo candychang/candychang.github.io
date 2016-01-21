@@ -3,6 +3,9 @@
 - title: home
   url: site.url
 
+- title: about
+  url: /about/
+
 - title: linkedin
   url: https://www.linkedin.com/in/candyichang
 

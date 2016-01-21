@@ -5,7 +5,7 @@ image:
   feature: accordions_1600x800.png
 ---
 <div class="tiles">
-{% for post in site.posts %}
+{% for post in site.categories.sketchbook %}
     {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

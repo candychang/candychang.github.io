@@ -13,11 +13,11 @@
     @include omega(4n);
   }
   .entry-date {
-    @include font-size(16,no);
+    @include font-size(14,no);
     color: lighten($text-color,25);
   }
   .post-title {
-    @include font-size(18,no);
+    @include font-size(24,no);
   }
   .post-excerpt {
     @include font-size(16);
