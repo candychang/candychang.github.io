@@ -1,13 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tortoise and badger</title>
+    <title>tortoise &amp; badger</title>
     <description>Candy Chang&#39;s personal website and portfolio</description>
     <link>http://127.0.0.1:4000/</link>
     <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Jan 2016 01:53:14 -0800</pubDate>
-    <lastBuildDate>Wed, 20 Jan 2016 01:53:14 -0800</lastBuildDate>
+    <pubDate>Thu, 21 Jan 2016 01:22:40 -0800</pubDate>
+    <lastBuildDate>Thu, 21 Jan 2016 01:22:40 -0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Kravin</title>
+        <description>
+</description>
+        <pubDate>Wed, 20 Jan 2016 22:14:09 -0800</pubDate>
+        <link>http://127.0.0.1:4000/portfolio/kravin/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/portfolio/kravin/</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Captureproof</title>
+        <description>
+</description>
+        <pubDate>Wed, 20 Jan 2016 22:13:56 -0800</pubDate>
+        <link>http://127.0.0.1:4000/portfolio/captureproof/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/portfolio/captureproof/</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Zest</title>
+        <description>
+</description>
+        <pubDate>Wed, 20 Jan 2016 22:13:23 -0800</pubDate>
+        <link>http://127.0.0.1:4000/portfolio/zest/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/portfolio/zest/</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Opportune</title>
+        <description>
+</description>
+        <pubDate>Wed, 20 Jan 2016 22:13:12 -0800</pubDate>
+        <link>http://127.0.0.1:4000/portfolio/opportune/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/portfolio/opportune/</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Watch in the Wild</title>
+        <description>
+</description>
+        <pubDate>Wed, 20 Jan 2016 22:13:00 -0800</pubDate>
+        <link>http://127.0.0.1:4000/portfolio/watch-in-the-wild/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/portfolio/watch-in-the-wild/</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>Derive</title>
+        <description>
+</description>
+        <pubDate>Wed, 20 Jan 2016 22:11:12 -0800</pubDate>
+        <link>http://127.0.0.1:4000/portfolio/derive/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/portfolio/derive/</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>CS Next</title>
+        <description>
+</description>
+        <pubDate>Wed, 20 Jan 2016 22:00:31 -0800</pubDate>
+        <link>http://127.0.0.1:4000/portfolio/cs-next/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/portfolio/cs-next/</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
+    
+      <item>
+        <title>PiE Annual Report</title>
+        <description>
+</description>
+        <pubDate>Tue, 19 Jan 2016 22:22:45 -0800</pubDate>
+        <link>http://127.0.0.1:4000/portfolio/pie-annual-report/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/portfolio/pie-annual-report/</guid>
+        
+        
+        <category>portfolio</category>
+        
+      </item>
     
       <item>
         <title>Hello World</title>
@@ -20,13 +124,13 @@ It’s an experiment, half to get me to create more content on a regular basis, 
 
 </description>
         <pubDate>Tue, 19 Jan 2016 00:00:00 -0800</pubDate>
-        <link>http://127.0.0.1:4000/articles/hello-world/</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/articles/hello-world/</guid>
+        <link>http://127.0.0.1:4000/sketchbook/hello-world/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/sketchbook/hello-world/</guid>
         
         <category>notes</category>
         
         
-        <category>articles</category>
+        <category>sketchbook</category>
         
       </item>
     

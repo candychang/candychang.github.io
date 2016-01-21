@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Hello World"
-categories: articles
+categories: sketchbook
 tags: [notes]
 comments: true
 ads: false
