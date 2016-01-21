@@ -9,10 +9,7 @@
 .slide {
     transform: translateX(-100%);
     @include media($medium) {
-      transform: translateX(em(-600));
-    }
-    @include media($large) {
-      transform: translateX(em(-900));
+      transform: translateX(em(-400));
     }
   }
 
@@ -44,10 +41,7 @@
     background: $danger-color;
     transform: translateX(0); /* don't slide close button on small screens only */
     @include media($medium) {
-      transform: translateX(em(-600)); /* reset slide position */
-    }
-    @include media($large) {
-      transform: translateX(em(-900)); /* reset slide position */
+      transform: translateX(em(-400)); /* reset slide position */
     }
   }
 }
@@ -60,16 +54,13 @@
   position: fixed;
   top: 0;
   right: 0;
-  padding: em(22) 0;
+  padding: em(44) 0;
   visibility: hidden;
   backface-visibility: hidden;
   text-align: left;
   @include size(100% 100%);
   @include media($small) {
-    width: em(600);
-  }
-  @include media($large) {
-    width: em(900);
+    width: em(400);
   }
   transform: translateX(100%);
   transition: $sliding-menu-animation;
@@ -92,16 +83,6 @@
     @include media($small) {
       @include font-size(16);
     }
-    span {
-      display: block;
-      @include font-size(32,no,1);
-      @include media($small) {
-        @include font-size(48,no,1);
-      }
-      font-family: $base-font;
-      text-transform: uppercase;
-      font-weight: 400;
-    }
   }
   ul {
     margin: 0 10%;
@@ -118,9 +99,6 @@
     position: relative;
     padding-bottom: 1em;
     min-height: 70px;
-    @include media($small) {
-      min-height: 100px;
-    }
   }
   .menu-item {
     a {
@@ -128,40 +106,12 @@
       color: $white;
       text-decoration: none;
     }
-    .teaser {
-      position: absolute;
-      left: 0;
-      margin-bottom: 0;
-      width: 50px;
-      border: 2px solid $white;
-      margin-bottom: ($gutter / 2);
-      opacity: 0.6;
-      @include media($small) {
-        width: 150px;
-      }
-    }
-    a:hover .teaser {
-      opacity: 1;
-    }
     .title {
       display: block;
       margin-left: 60px;
       font-family: $alt-font;
       @include font-size(24,no);
-      font-weight: 700;
-      @include media($small) {
-        margin-left: 170px;
-        @include font-size(32,no);
-      }
-    }
-    .excerpt {
-      margin-top: 0;
-      margin-left: 60px;
-      @include font-size(14,no);
-      @include media($small) {
-        margin-left: 170px;
-        @include font-size(16,no);
-      }
+      font-weight: $font-ultra-bold;
     }
   }
   .sub-menu-item > li a {

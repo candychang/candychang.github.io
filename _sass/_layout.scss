@@ -27,11 +27,10 @@
 	height: $masthead-height;
 	text-decoration: none;
 	color: $black;
-	font-family: $alt-font;
-	font-weight: 700;
-	@include font-size(20,no);
+	font-family: $heading-font;
+	font-weight: $font-ultra-bold;
+	@include font-size(30,no);
 	line-height: .5 * $masthead-height; // half the height to center vertically
-	text-transform: uppercase;
 }
 
 
@@ -102,8 +101,8 @@
 	}
 	li {
 		a {
-			font-weight: 700;
-			@include font-size(16,no);
+			font-weight: $font-ultra-bold;
+			@include font-size(18,no);
 			line-height: .5 * $masthead-height; // half the height to center vertically
 			color: $black;
 			text-transform: uppercase;
@@ -115,7 +114,7 @@
 
 .bottom-menu {
 	@include clearfix;
-	font-weight: 700;
+	font-weight: $font-ultra-bold;
 	a {
 		color: lighten($black,60);
 	}
@@ -327,7 +326,9 @@
 }
 .author-bio {
 	margin-top: 0;
-	@include font-size(16);
+	@include font-size(18);
+	font-family: $alt-font;
+	font-weight: $font-normal;
 }
 
 /*

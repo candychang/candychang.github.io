@@ -1,0 +1,14 @@
+---
+layout: media
+title: CS Next
+modified:
+categories: portfolio
+excerpt:
+tags: []
+image:
+  feature:
+  teaser:
+  thumb:
+date: 2016-01-20T22:00:31-08:00
+---
+

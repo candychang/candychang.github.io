@@ -5,7 +5,8 @@ permalink: /sketchbook/
 ---
 
 <div class="tiles">
-{% for post in site.posts %}
+{% for post in site.categories.sketchbook %}
     {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+
