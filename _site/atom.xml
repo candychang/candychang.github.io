@@ -9,7 +9,7 @@
   <subtitle>Candy Chang's personal website and portfolio</subtitle>
   <link href="http://candychang.github.io/atom.xml" rel="self"/>
   <link href="http://candychang.github.io/" rel="alternate" type="text/html"/>
-  <updated>2016-01-21T01:24:47-08:00</updated>
+  <updated>2016-01-21T02:02:30-08:00</updated>
   <id>http://candychang.github.io/</id>
   <author>
     <name>Candy Chang</name>
@@ -156,7 +156,6 @@
   
   <entry>
     <title>Hello World</title>
-
     <link href="http://candychang.github.io/sketchbook/hello-world/"/>
     <updated>2016-01-19T00:00:00-08:00</updated>
     <id>http://candychang.github.io/sketchbook/hello-world</id>
