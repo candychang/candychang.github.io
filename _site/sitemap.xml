@@ -1,51 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://candychang.github.io/portfolio/kravin/</loc>
-    <lastmod>2016-01-20T22:14:09-08:00</lastmod>
+    <loc>/portfolio/bernal-heights/</loc>
+    <lastmod>2016-06-09T20:52:01+00:00</lastmod>
   </url>
   <url>
-    <loc>http://candychang.github.io/portfolio/captureproof/</loc>
-    <lastmod>2016-01-20T22:13:56-08:00</lastmod>
+    <loc>/portfolio/captureproof/</loc>
+    <lastmod>2016-01-21T06:13:56+00:00</lastmod>
   </url>
   <url>
-    <loc>http://candychang.github.io/portfolio/zest/</loc>
-    <lastmod>2016-01-20T22:13:23-08:00</lastmod>
+    <loc>/portfolio/zest/</loc>
+    <lastmod>2016-01-21T06:13:23+00:00</lastmod>
   </url>
   <url>
-    <loc>http://candychang.github.io/portfolio/opportune/</loc>
-    <lastmod>2016-01-20T22:13:12-08:00</lastmod>
+    <loc>/portfolio/opportune/</loc>
+    <lastmod>2016-01-21T06:13:12+00:00</lastmod>
   </url>
   <url>
-    <loc>http://candychang.github.io/portfolio/watch-in-the-wild/</loc>
-    <lastmod>2016-01-20T22:13:00-08:00</lastmod>
+    <loc>/portfolio/watch-in-the-wild/</loc>
+    <lastmod>2016-01-21T06:13:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://candychang.github.io/portfolio/derive/</loc>
-    <lastmod>2016-01-20T22:11:12-08:00</lastmod>
+    <loc>/portfolio/derive/</loc>
+    <lastmod>2016-01-21T06:11:12+00:00</lastmod>
   </url>
   <url>
-    <loc>http://candychang.github.io/portfolio/cs-next/</loc>
-    <lastmod>2016-01-20T22:00:31-08:00</lastmod>
+    <loc>/portfolio/cs-next/</loc>
+    <lastmod>2016-01-21T06:00:31+00:00</lastmod>
   </url>
   <url>
-    <loc>http://candychang.github.io/portfolio/pie-annual-report/</loc>
-    <lastmod>2016-01-19T22:22:45-08:00</lastmod>
+    <loc>/sketchbook/hello-world/</loc>
+    <lastmod>2016-01-19T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://candychang.github.io/sketchbook/hello-world/</loc>
-    <lastmod>2016-01-19T00:00:00-08:00</lastmod>
+    <loc>/sketchbook/</loc>
   </url>
   <url>
-    <loc>http://candychang.github.io/sketchbook/</loc>
+    <loc>/</loc>
   </url>
   <url>
-    <loc>http://candychang.github.io/</loc>
+    <loc>/portfolio/</loc>
   </url>
   <url>
-    <loc>http://candychang.github.io/portfolio/</loc>
-  </url>
-  <url>
-    <loc>http://candychang.github.io/about/</loc>
+    <loc>/about/</loc>
   </url>
 </urlset>

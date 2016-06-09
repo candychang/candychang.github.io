@@ -5,44 +5,77 @@
 
   <title>tortoise & badger</title>
   <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.3</generator>
-    <icon>http://candychang.github.io/apple-touch-icon-precomposed.png</icon>
+    <icon>/apple-touch-icon-precomposed.png</icon>
   <subtitle>Candy Chang's personal website and portfolio</subtitle>
-  <link href="http://candychang.github.io/atom.xml" rel="self"/>
-  <link href="http://candychang.github.io/" rel="alternate" type="text/html"/>
-  <updated>2016-01-21T02:02:30-08:00</updated>
-  <id>http://candychang.github.io/</id>
+  <link href="/atom.xml" rel="self"/>
+  <link href="/" rel="alternate" type="text/html"/>
+  <updated>2016-06-09T23:48:12+00:00</updated>
+  <id>/</id>
   <author>
     <name>Candy Chang</name>
-    <uri>http://candychang.github.io/</uri>
+    <uri>/</uri>
     <email>candyichang@gmail.com</email>
   </author>
 
   
   <entry>
-    <title>Kravin</title>
-    <link href="http://candychang.github.io/portfolio/kravin/"/>
-    <updated>2016-01-20T22:14:09-08:00</updated>
-    <id>http://candychang.github.io/portfolio/kravin</id>
+    <title>Bernal Heights</title>
+    <link href="/portfolio/bernal-heights/"/>
+    <updated>2016-06-09T20:52:01+00:00</updated>
+    <id>/portfolio/bernal-heights</id>
     <author>
       <name>Candy Chang</name>
-      <uri>http://candychang.github.io/</uri>
+      <uri>/</uri>
       <email>candyichang@gmail.com</email>
     </author>
     <content type="html">
-      
-      
+      &lt;img src=&quot;/images/hotspot_screenshot_1024.png&quot;&gt;&lt;br/&gt;
+      &lt;p&gt;Bernal Heights App promotes community engagement and
+safety by collecting relevant information about the
+neighborhood and making it accessible to residents
+as well as BHNC staff.&lt;/p&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Team: Tiffany Lam, Joyce Toh, Tanisha Singh, Bao Xie&lt;/li&gt;
+  &lt;li&gt;Role: Developer, Designer, DevOps&lt;/li&gt;
+  &lt;li&gt;Timeframe: Feb 2016 - May 2016&lt;/li&gt;
+  &lt;li&gt;Class: CS169 Software Engineering as a Service&lt;/li&gt;
+  &lt;li&gt;Technologies: Ruby on Rails, Sass, Javascript&lt;/li&gt;
+  &lt;li&gt;Process Tools: POPapp, Pivotal Tracker, Travis CI, CodeClimate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;client--needs&quot;&gt;Client &amp;amp; Needs&lt;/h2&gt;
+&lt;p&gt;We worked with Bernal Heights Neighborhood Center (BHNC), a small non-profit in San Francisco
+that focuses on social programs for seniors and youth, and fosters neighborhood
+activism to solve local problems. Specifically, we worked with Ailed, the Public Safety and Community
+Engagement Chair. This part of BHNC organizes hotspot walks, community meetings, and safety-awareness events.
+Ailed wanted to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gather hotspot information more efficiently; currently using paper forms and processing by hand&lt;/li&gt;
+  &lt;li&gt;Share useful resources with residents in one accessible location&lt;/li&gt;
+  &lt;li&gt;Get old and new neighbors involved in community events&lt;/li&gt;
+  &lt;li&gt;Lighten the workload on overworked staff&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;solution&quot;&gt;Solution&lt;/h2&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
 
     </content>
   </entry>
   
   <entry>
     <title>Captureproof</title>
-    <link href="http://candychang.github.io/portfolio/captureproof/"/>
-    <updated>2016-01-20T22:13:56-08:00</updated>
-    <id>http://candychang.github.io/portfolio/captureproof</id>
+    <link href="/portfolio/captureproof/"/>
+    <updated>2016-01-21T06:13:56+00:00</updated>
+    <id>/portfolio/captureproof</id>
     <author>
       <name>Candy Chang</name>
-      <uri>http://candychang.github.io/</uri>
+      <uri>/</uri>
       <email>candyichang@gmail.com</email>
     </author>
     <content type="html">
@@ -54,12 +87,12 @@
   
   <entry>
     <title>Zest</title>
-    <link href="http://candychang.github.io/portfolio/zest/"/>
-    <updated>2016-01-20T22:13:23-08:00</updated>
-    <id>http://candychang.github.io/portfolio/zest</id>
+    <link href="/portfolio/zest/"/>
+    <updated>2016-01-21T06:13:23+00:00</updated>
+    <id>/portfolio/zest</id>
     <author>
       <name>Candy Chang</name>
-      <uri>http://candychang.github.io/</uri>
+      <uri>/</uri>
       <email>candyichang@gmail.com</email>
     </author>
     <content type="html">
@@ -71,12 +104,12 @@
   
   <entry>
     <title>Opportune</title>
-    <link href="http://candychang.github.io/portfolio/opportune/"/>
-    <updated>2016-01-20T22:13:12-08:00</updated>
-    <id>http://candychang.github.io/portfolio/opportune</id>
+    <link href="/portfolio/opportune/"/>
+    <updated>2016-01-21T06:13:12+00:00</updated>
+    <id>/portfolio/opportune</id>
     <author>
       <name>Candy Chang</name>
-      <uri>http://candychang.github.io/</uri>
+      <uri>/</uri>
       <email>candyichang@gmail.com</email>
     </author>
     <content type="html">
@@ -88,12 +121,12 @@
   
   <entry>
     <title>Watch in the Wild</title>
-    <link href="http://candychang.github.io/portfolio/watch-in-the-wild/"/>
-    <updated>2016-01-20T22:13:00-08:00</updated>
-    <id>http://candychang.github.io/portfolio/watch-in-the-wild</id>
+    <link href="/portfolio/watch-in-the-wild/"/>
+    <updated>2016-01-21T06:13:00+00:00</updated>
+    <id>/portfolio/watch-in-the-wild</id>
     <author>
       <name>Candy Chang</name>
-      <uri>http://candychang.github.io/</uri>
+      <uri>/</uri>
       <email>candyichang@gmail.com</email>
     </author>
     <content type="html">
@@ -105,12 +138,12 @@
   
   <entry>
     <title>Derive</title>
-    <link href="http://candychang.github.io/portfolio/derive/"/>
-    <updated>2016-01-20T22:11:12-08:00</updated>
-    <id>http://candychang.github.io/portfolio/derive</id>
+    <link href="/portfolio/derive/"/>
+    <updated>2016-01-21T06:11:12+00:00</updated>
+    <id>/portfolio/derive</id>
     <author>
       <name>Candy Chang</name>
-      <uri>http://candychang.github.io/</uri>
+      <uri>/</uri>
       <email>candyichang@gmail.com</email>
     </author>
     <content type="html">
@@ -122,29 +155,12 @@
   
   <entry>
     <title>CS Next</title>
-    <link href="http://candychang.github.io/portfolio/cs-next/"/>
-    <updated>2016-01-20T22:00:31-08:00</updated>
-    <id>http://candychang.github.io/portfolio/cs-next</id>
+    <link href="/portfolio/cs-next/"/>
+    <updated>2016-01-21T06:00:31+00:00</updated>
+    <id>/portfolio/cs-next</id>
     <author>
       <name>Candy Chang</name>
-      <uri>http://candychang.github.io/</uri>
-      <email>candyichang@gmail.com</email>
-    </author>
-    <content type="html">
-      
-      
-
-    </content>
-  </entry>
-  
-  <entry>
-    <title>PiE Annual Report</title>
-    <link href="http://candychang.github.io/portfolio/pie-annual-report/"/>
-    <updated>2016-01-19T22:22:45-08:00</updated>
-    <id>http://candychang.github.io/portfolio/pie-annual-report</id>
-    <author>
-      <name>Candy Chang</name>
-      <uri>http://candychang.github.io/</uri>
+      <uri>/</uri>
       <email>candyichang@gmail.com</email>
     </author>
     <content type="html">
@@ -156,16 +172,16 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://candychang.github.io/sketchbook/hello-world/"/>
-    <updated>2016-01-19T00:00:00-08:00</updated>
-    <id>http://candychang.github.io/sketchbook/hello-world</id>
+    <link href="/sketchbook/hello-world/"/>
+    <updated>2016-01-19T00:00:00+00:00</updated>
+    <id>/sketchbook/hello-world</id>
     <author>
       <name>Candy Chang</name>
-      <uri>http://candychang.github.io/</uri>
+      <uri>/</uri>
       <email>candyichang@gmail.com</email>
     </author>
     <content type="html">
-      &lt;img src=&quot;http://candychang.github.io/images/notebook_a_1024x256.png&quot;&gt;&lt;br/&gt;
+      &lt;img src=&quot;/images/notebook_a_1024x256.png&quot;&gt;&lt;br/&gt;
       &lt;p&gt;I’m planning to use this as a digital sketchbook.
 It’s an experiment, half to get me to create more content on a regular basis, and half to log the random stuff I do have in my notebooks etc.&lt;/p&gt;
 
