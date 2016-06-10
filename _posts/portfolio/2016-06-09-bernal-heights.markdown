@@ -3,11 +3,11 @@ layout: media
 title: Bernal Heights
 modified:
 categories: portfolio
-excerpt:
+excerpt: Web Development and Design
 tags: []
 image:
-  feature: hotspot_screenshot_1024.png
-  teaser:
+  feature: hotspot_map_1024.png
+  teaser: bhnc_logo_notxt.png
   thumb:
 ads: false
 date: 2016-06-09T20:52:01+00:00
@@ -23,8 +23,19 @@ as well as BHNC staff.
 * Role: Developer, Designer, DevOps
 * Timeframe: Feb 2016 - May 2016
 * Class: CS169 Software Engineering as a Service
-* Technologies: Ruby on Rails, Sass, Javascript
-* Process Tools: POPapp, Pivotal Tracker, Travis CI, CodeClimate
+* Technologies: Ruby on Rails, Sass, Javascript, Heroku
+* Process Tools: POPapp, Pivotal Tracker, Travis CI, CodeClimate, Cloud9
+
+
+## Summary of Contributions
+
+* Full-stack development on Ruby on Rails, following MVC and RESTful practices
+* Designed and implemented most of the staff/admin workflow, leveraging gems like Devise
+* Created low-fi mockups of the mobile hotspot experience
+* Conducted in-person interviews and generated personas
+* Maintained repository and the production/QA process
+* Practiced agile development with 2 week sprints
+* Translated explicit and implicit client needs into actionable features
 
 ## Client & Needs
 We worked with Bernal Heights Neighborhood Center (BHNC), a small non-profit in San Francisco
