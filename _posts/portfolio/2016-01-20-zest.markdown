@@ -3,13 +3,94 @@ layout: media
 title: Zest
 modified:
 categories: portfolio
-excerpt:
+excerpt: Product Development
 tags: []
 image:
-  feature:
-  teaser:
+  feature: zest_header.png
+  teaser: zest_teaser.png
   thumb:
 ads: false
 date: 2016-01-20T22:13:23-08:00
+timeframe: Feb 2015 - May 2015
+company: ME110/UGBA190T New Product Development
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j18eTHD7LU4" frameborder="0" allowfullscreen></iframe>
+
+## Overview
+An educational cooking experience integrating sensors and existing devices. 
+Worked with a team of 5 mechanical engineers. Class project for ME110, 
+New Product Development. Prompt from our sponsors, Samsung: 
+"Leisure and Entertainment," ideally something using speakers and sensors. 
+
+##Involvement
+* Heavily involved in user interviews and advocating for user needs 
+* Participated in all aspects of product development process: brainstorming, 
+  concept generation, concept selection, prototyping, business analysis
+* Created interactive prototypes in Marvel and Invision
+* Prepared decks and led presentations
+
+### Tools
+
+Pencil and paper, whiteboard, post-its, Marvel, Invision, Adobe Illustrator
+
+## Process
+
+### User Needs
+
+We were initially given a very broad prompt of "Leisure and Entertainment,"
+so as a team we decided to focus on turning mundane tasks and chores into
+entertainment. To discover a product customers would be interested in using, we
+held two rounds of in-person interviews.
+
+**Preliminary Interviews (20 interviews):**
+
+Each team member interviewed at least three people about their hobbies, their
+chores, and how they kept themselves entertained. I learned a lot by visiting
+people in person and asking them to demonstrate their answers to my questions.
+For example, one of my interviewees said he enjoyed listening to music and talk 
+shows while cooking. When I asked to see how he set up his cooking space, he
+grabbed his laptop and placed it on top of the trashcan! It had become such a
+regular thing for him to do, he didn't think to bring it up in conversation.
+
+<img src="{{ site.url }}/images/trashcan_music.jpg" alt="laptop on trashcan" itemprop="image" height="300px">
+
+**In-depth Interviews (22 interviews)
+We classified three types of college students for the next round of interviews: 
+people who cook daily, people who cook less regularly, and people who rarely or 
+never cook. We interviewed at least 5 students of each type. By assessing 
+interview responses based on their familiarity with cooking, we could further 
+understand their pain points. For experienced cooks, being able to grasp timing
+accurately was very important to them. For inexperienced cooks, we found that
+the set up and clean up process prevented many from wanting to cook.There
+were also some common themes that came up: the desire for hands-free control of 
+devices and control over the cooking environment. 
+
+We also asked interviewees to show us their cooking process so we could find 
+any contradictions between what they said and what they actually do. 
+From these interviews, we identified five key user needs for our product: hands-free, adapts to environment, improves cooking, shares with others, and encourages creativity.
+
+3. Surveys (30 respondents)
+Surveys from the midterm tradeshow were a great tool for us to gather more data 
+and make sure that we were tackling the core user needs. These surveys helped 
+us not only identify needs and pain points, but also ensured that the user needs 
+we identified through our interviews were not limited to the people we interviewed. 
+We also observed an interesting contradiction between what people said and what 
+they do; namely, the majority of respondents responded that they think cooking 
+is fun, but very few actually cook often. It also confirmed our hypothesis 
+that if we could solve their pain points, the cooking experience could be 
+educational and entertaining.
+
+
+### Concept Generation
+
+### Concept Selection
+
+### Prototypes
+
+### Final Prototype
+
+<a class="btn" href="https://invis.io/F97N9TBHS">Mobile Prototype - Onboarding Screens</a>
+<a class="btn" href="https://invis.io/9U2X87YK4">Mobile Prototype - Cooking Instruction Screens</a>
+### Reflection
+
 
