@@ -7,7 +7,7 @@ excerpt: Print Design, Copywriting
 tags: []
 image:
   feature: annual_report_map_pages.jpg
-  teaser: annual_report_cover.jpg
+  teaser: annual_report_cover_400.jpg
   thumb:
 ads: false
 date: 2016-01-20T03:19:32+00:00
