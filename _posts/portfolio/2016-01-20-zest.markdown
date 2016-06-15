@@ -3,13 +3,79 @@ layout: media
 title: Zest
 modified:
 categories: portfolio
-excerpt:
+excerpt: Product Development
 tags: []
 image:
-  feature:
-  teaser:
+  feature: zest_header.png
+  teaser: zest_teaser.png
   thumb:
 ads: false
 date: 2016-01-20T22:13:23-08:00
+timeframe: Feb 2015 - May 2015
+company: ME110/UGBA190T New Product Development
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j18eTHD7LU4" frameborder="0" allowfullscreen></iframe>
+
+## Overview
+An IoT cooking experience integrating sensors and existing devices. 
+Worked with a team of five mechanical engineers. Class project for ME110, 
+New Product Development. Prompt from our sponsors, Samsung: 
+"Leisure and Entertainment," ideally something using speakers and sensors. 
+
+### Involvement
+- Heavily involved in user interviews and advocating for user needs 
+- Participated in all aspects of product development process: brainstorming, 
+  concept generation, concept selection, prototyping, business analysis
+- Created interactive prototypes in Marvel and Invision
+- Prepared decks and led presentations
+
+### Tools
+
+Pencil and paper, whiteboard, post-its, Marvel, Invision, Adobe Illustrator
+
+## Process
+
+### Concept Generation
+
+> *We need more ideas! We need more interviews!*
+
+We were given a broad prompt "make an IoT product within the theme of Leisure
+and Entertainment" and told we could do pretty much what we wanted. As a
+result, we revisited concept generation many times and conducted several rounds of 
+interviews as we slowly narrowed our focus to enhancing the cooking experience.
+
+[Insert images of concept generation]
+
+I learned a lot by visiting people in person and asking 
+them to show me how they did things. For example, one of my interviewees 
+said he enjoyed listening to music and talkshows while cooking, but didn't bring
+up anything inconvenient about the process. When I asked 
+to see how he set up his cooking space, however, he grabbed his laptop and 
+placed it on top of the trashcan! It had become such a regular thing for him 
+that he didn’t think to bring it up when I asked at first.
+
+<img src="{{ site.url }}/images/trashcan_music.jpg" alt="laptop on trashcan" itemprop="image" height="300px">
+
+
+### Concept Selection
+
+### Prototypes
+
+### Would You Call This a Pivot
+
+Based on our inter
+
+<img src="{{ site.url }}/images/roadmap.png" alt="user progression" itemprop="image" height="300px">
+
+
+
+> *"Your hands are always dirty so you can’t touch anything, can’t change anything, 
+  or go online, and it’s a pain."*
+
+### Final Prototype
+
+<a class="btn" href="https://invis.io/F97N9TBHS">Mobile Prototype - Onboarding Screens</a>
+<a class="btn" href="https://invis.io/9U2X87YK4">Mobile Prototype - Cooking Instruction Screens</a>
+### Reflection
+
 
