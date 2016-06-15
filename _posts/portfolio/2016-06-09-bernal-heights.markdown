@@ -32,15 +32,15 @@ and fosters neighborhood activism to solve local problems.
 
 ### Involvement
 Everyone on the team contributed to both design and implementation, which was 
-a really great experience after group projects with distributed roles. As
+a really great experience after group projects with mostly distributed roles. As
 one of the two team members with some prior Rails experience, I was heavily involved
 in implementation and learning how to manage testing and deployment.
 
 * Full-stack, agile, TDD and BDD development on Ruby on Rails, following MVC and RESTful practices
 * Design and implementation of the admin-side workflow for  staff accounts, hotspots and events
+* Git repo, QA and deployment management
 * Low-fi mockups, including the hotspot form experience on mobile devices
 * In-person interviews and persona generation
-* Git repo, QA and deployment management
 
 ### Tools
 
@@ -48,8 +48,6 @@ _Design_: Pencil and paper, whiteboard, POP, Adobe Illustrator, browser prototyp
 
 _Development_: Ruby on Rails, Haml, Sass, Javascript, Pivotal Tracker, Travis CI, 
 CodeClimate, Cucumber, Rspec, Heroku
-
-
 
 ## Process
 
@@ -75,10 +73,13 @@ for this app:
 * Get both long-time and recent neighbors involved in community events
 * Share useful resources with residents in one accessible location
 
+### Personas
+
+**BHNC Staff**
+
 In order to decide *how* to go about implementing these features, I put together
 personas for some primary users, as well as general observations about the
 characteristics of BHNC and the Bernal Heights Neighborhood.
-
 
 The residents of Bernal can be roughly divided into three groups:
 1. Long-time residents: 3-generation families, from grandparents to grandchildren
@@ -88,10 +89,6 @@ The residents of Bernal can be roughly divided into three groups:
 Out of the three, the ones with most involvement in BHNC are the first two groups.
 One of the goals of this app was to pull in the third group while maintaining
 involvement from the other two segments.
-
-### Design Process
-
-Early on, while brainstorming initial ske
 
 
 
