@@ -6,7 +6,7 @@ categories: portfolio
 excerpt: Smartwatch Application Design
 tags: []
 image:
-  feature: opportune.jpg
+  feature: opportune_feature.jpg
   teaser: opportune_400.jpg
   thumb:
 ads: false
@@ -17,13 +17,13 @@ carousel: true
 ---
 <a class="btn" href="https://www.hackster.io/mango-innovations/opportune-9cf9a9">Hackster.io Project Report</a>
 
-<img src="{{ site.url }}/images/opportune_devices.png" alt="post-it brainstorming" itemprop="image" width="400px">
-
+<iframe src="https://player.vimeo.com/video/114516289" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Overview
 A proof-of-concept for a Qualcomm Toq smartwatch app for recruiters. 
-Class project for CS160, User Interface Design. Worked on a team of five;
-two designers and two developers.
+Class project for CS160, User Interface Design. Worked on a team of five
+computer science majors; we split the roles into two designers, three
+developers.
 
 ### Involvement
 For this project I was most involved in user research and visual design.
@@ -35,7 +35,7 @@ For this project I was most involved in user research and visual design.
 - Created presentation decks and led pitches
 
 ### Tools
-Post-its, pencil and paper, Photoshop, Illustrator
+Pencil and paper, Photoshop, Illustrator
 
 ## Process
 
@@ -65,15 +65,13 @@ at one engineering career fair, I even got permission to perform contextual inqu
 with a group of Palantir recruiters. 
 
 
+
 <div class="slick-carousel">
   <div>
-    <img src="{{ site.url }}/images/palantir_table.jpg" alt="swag table" itemprop="image">
+    <img src="{{ site.url }}/images/palantir_table_700.jpg" alt="swag table" itemprop="image">
   </div>
   <div>
-    <img src="{{ site.url }}/images/palantir_drinks.jpg" alt="what recruiters drink" itemprop="image">
-  </div>
-  <div>
-    <img src="{{ site.url }}/images/palantir_clipboard.jpg" alt="clipboard with post-it" itemprop="image">
+    <img src="{{ site.url }}/images/palantir_drinks_700.jpg" alt="what recruiters drink" itemprop="image">
   </div>
 </div>
 
@@ -91,7 +89,6 @@ Some observations:
 
 ### Prototype
 
-<iframe src="https://player.vimeo.com/video/114516289" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Lessons Learned
 
