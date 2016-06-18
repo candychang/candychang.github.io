@@ -3,13 +3,39 @@ layout: media
 title: Derive
 modified:
 categories: portfolio
-excerpt:
+excerpt: Interactive Prototype
 tags: []
 image:
-  feature:
-  teaser:
+  feature: derive_feature.jpg
+  teaser: derive_teaser.jpg
   thumb:
 ads: false
 date: 2016-01-20T22:11:12-08:00
+timeframe: Fall 2014
+company: CS160 User Interface Design
 ---
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/viN2o8-oxXo" frameborder="0" allowfullscreen></iframe>
+
+## Overview
+UI design for a hypothetical application that would give "wandering" directions 
+to points of interest, instead of choosing the shortest route. Perfect for
+exploring an new city, or having friends experience a unique journey before
+meeting up somewhere.
+
+### Tools
+Illustrator, Photoshop, Framer.js
+
+## Process
+I really liked the idea of creating an app that would reinforce the philosophy
+of "it's the journey that counts." It reminded me of family trips where our dad 
+would suddenly improvise instead of following our planned directions...we would 
+often end up pleasantly delighted, when we weren't too irritated by sitting long
+hours in the car!
+
+I wanted the app to feel whimsical - not too modern and serious, with both copy
+and visual design encouraging the user to explore.
+
+
+
 
