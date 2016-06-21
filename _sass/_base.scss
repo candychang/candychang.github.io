@@ -35,6 +35,7 @@ h2 {
 }
 h3 {
 	@include font-size(28);
+	font-weight: $font-normal;
 }
 h4 {
 	@include font-size(24);
