@@ -121,7 +121,7 @@ Things they carried: the top five ways students held their resumes
 4. Notebook (7)
 5. Manila envelope (4)
 
-**Final Thoughts**
+**Conclusion**
 
 Based on the findings from this contextual inquiry, as well as other user interviews
 conducted by teammates, we came up with a few important user needs:
@@ -197,28 +197,17 @@ details hidden by default.
 
 
 
-### Reflection
+### Final Thoughts
 
-This project felt very much like an example of what our teachers told us not to
-do: given a piece of technology, think of a product to showcase
-that technology. It should have been the other way around -- given this problem, 
-find the best way to solve it for the users.
+I learned a lot about designing around limitations during this
+project. The watch form factor influenced all our technical and product decisions;
+we had to set aside several of our ideas because they didn't work with the small
+screen estate or the possible modes of interaction. We also had to consider
+likely user bases --- smartwatches are not ubiquitous, and certain user groups,
+like high-salaried tech workers, are more likely to have them.
 
-> Why haven't more people gone completely digital?
-
-Paper resumes are the main contact exchange, despite the incovenience of
-having to manually enter contact information into a CMS. Recruiters pick out items 
-from the resume to start conversations with candidates, and during the debriefing
-and selection process, they are sorted and passed around for everyone to view.
-Note-taking with one hand is still more easily done with pen and paper compared
-with typing on a touch keyboard.
-
-On the recruiter end, handing out physical "swag" is an important way to attract
-students to the booth, and to raise brand awareness. It's also a kind of status
-symbol, signaling to students which companies are the "cool" ones.
-
-
-
-
+We worked on this project around the time when the Apple Watch was first being
+promoted. Smartwatch technology and design has advanced since then, and it's
+exciting to think that some of our early ideas might be possible to achieve now.
 
 <img src="{{ site.url }}/images/mango_final_group_pic.jpg" alt="opportune group picture" itemprop="image" height="300px">
