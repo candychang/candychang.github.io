@@ -33,6 +33,12 @@
 	color: $white;
 }
 
+.btn-block {
+	@extend .btn;
+	display: block;
+	margin: auto;
+}
+
 /*
    Inverse button .btn-inverse
    ========================================================================== */
