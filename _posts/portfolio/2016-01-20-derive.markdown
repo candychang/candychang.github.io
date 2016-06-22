@@ -102,12 +102,12 @@ can a user tell right now what exactly a "safe" or a "risky" trip would
 entail? Would a user have to repeat these settings each time they wanted
 to go on a derive, or is there a way to save these customizations?
 
-Even now, I'm still in love with the concept of the dérive -- probably
-because I find cultural landscape studies, and thinking about how infrastructure 
-and buildings impact how we act and feel, to be really fascinating. It's similar 
+Even now, I'm still in love with the concept of the dérive, probably
+because I find cultural landscape studies and thinking about how infrastructure 
+and buildings impact how we act and feel to be really fascinating. It's similar 
 to thinking about how physical and digital interfaces influence people's actions
 and thoughts.
 
 Moreover, in this age of Google Maps and door to door delivery for almost anything,
-dérives would be a good reminder to savor the journey -- and make the effort
-to have one in the first place! -- instead of skipping directly to the end.
+dérives would be a good reminder to savor the journey --- and make the effort
+to have one in the first place! --- instead of skipping directly to the end.
