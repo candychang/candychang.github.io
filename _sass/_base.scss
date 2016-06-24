@@ -35,6 +35,7 @@ h2 {
 }
 h3 {
 	@include font-size(28);
+	font-weight: $font-normal;
 }
 h4 {
 	@include font-size(24);
@@ -196,6 +197,13 @@ figcaption {
     padding-right: 0;
   }
 }
+
+.centered {
+	text-align: center;
+	margin: auto;
+	padding: auto;
+}
+
 
 /* Fix IE9 SVG bug */
 svg:not(:root) {

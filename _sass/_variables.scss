@@ -38,6 +38,7 @@ $border-color                	: #ddd;
 $link-color                  	: #222;
 
 $primary-color               	: $black;
+$secondary-color              : mix($white, $text-color, 25%);
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;

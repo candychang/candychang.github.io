@@ -19,11 +19,25 @@
 	@include transition(background 0.2s, border 0.2s);
 	&:hover {
 		color: $white;
-		background-color: lighten($primary-color, 10);
+		background-color: lighten($primary-color, 50);
 	}
 	&:active {
 		// move button slightly on click
 		@include transform(translateY(1px));
+	}
+}
+
+.btn-secondary {
+	@extend .btn;
+	background-color: $secondary-color;
+	color: $white;
+}
+
+.btn-block {
+	@extend .btn;
+	@include media($small) {
+		display: block;
+		margin: auto;
 	}
 }
 

@@ -2,10 +2,6 @@
 layout: home
 permalink: /
 image:
-  feature: accordions_1600x800.png
+  feature: indigo_cloth.jpg
 ---
-<div class="tiles">
-{% for post in site.categories.sketchbook %}
-    {% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+

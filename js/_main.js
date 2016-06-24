@@ -16,5 +16,15 @@ $(document).ready(function(){
 	$("#main").fitVids();
 });
 
+$(document).ready(function(){
+  $('.slick-carousel').slick({
+    accessibility: true,
+    arrows: true,
+    dots: true,
+    fade: true,
+  });
+});
+
 // Table of Contents title. Change text to localize
 $("#markdown-toc").prepend("<li><h6>{{ site.data.messages.locales[site.locale].overview }}</h6></li>");
+
