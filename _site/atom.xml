@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  
+
+  <title>tortoise & badger</title>
+  <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.3</generator>
+    <icon>/apple-touch-icon-precomposed.png</icon>
+  <subtitle>Candy Chang's personal website and portfolio</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="/" rel="alternate" type="text/html"/>
+  <updated>2016-06-24T08:56:12+00:00</updated>
+  <id>/</id>
+  <author>
+    <name>Candy Chang</name>
+    <uri>/</uri>
+    <email>candyichang@gmail.com</email>
+  </author>
+
+  
+  <entry>
+    <title>Bernal Heights App</title>
+    <link href="/portfolio/bernal-heights/"/>
+    <updated>2016-06-23T00:00:00+00:00</updated>
+    <id>/portfolio/bernal-heights</id>
+    <author>
+      <name>Candy Chang</name>
+      <uri>/</uri>
+      <email>candyichang@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;img src=&quot;/images/bhnc_room.jpg&quot;&gt;&lt;br/&gt;
+      &lt;p&gt;&lt;a class=&quot;btn&quot; href=&quot;http://bernal-heights.herokuapp.com/&quot;&gt;Check out the project&lt;/a&gt;
+&lt;a class=&quot;btn-secondary&quot; href=&quot;https://github.com/candychang/bernal-heights&quot;&gt;Github repo&lt;/a&gt;
+&lt;a class=&quot;btn-secondary&quot; href=&quot;https://www.pivotaltracker.com/n/projects/1543993&quot;&gt;Pivotal Tracker&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/homepage.png&quot; alt=&quot;bhnc app homepage&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;I worked on a team of five computer science/EECS students during the Spring 2016
+semester to create a web application promoting community engagement and safety 
+in Bernal Heights, San Francisco. Our client was the 
+&lt;a href=&quot;https://donatenow.networkforgood.org/BHNC?code=Website+button&quot; title=&quot;BHNC Link&quot;&gt;Bernal Heights Neighborhood Center&lt;/a&gt; (BHNC),
+a small non-profit that provides social programs for seniors and youth, 
+and fosters neighborhood activism to solve local problems. We made this as part
+of CS169, Software Engineering as a Service.&lt;/p&gt;
+
+&lt;h3 id=&quot;involvement&quot;&gt;Involvement&lt;/h3&gt;
+&lt;p&gt;Everyone on the team contributed to both design and implementation, which was 
+a really great experience after group projects with mostly distributed roles. As
+one of the two team members with some prior Rails experience, I was heavily involved
+in implementation and learning how to manage testing and deployment.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Full-stack, agile, TDD and BDD development on Ruby on Rails, following MVC and RESTful practices&lt;/li&gt;
+  &lt;li&gt;Design and implementation of the admin-side workflow for  staff accounts, hotspots and events&lt;/li&gt;
+  &lt;li&gt;Managed Git repo, continuous integration and deployment&lt;/li&gt;
+  &lt;li&gt;Low-fi mockups, including the hotspot form experience on mobile devices&lt;/li&gt;
+  &lt;li&gt;In-person interviews and persona generation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Design&lt;/em&gt;: Pencil and paper, whiteboard, POP, Adobe Illustrator, browser prototyping&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Development&lt;/em&gt;: Ruby on Rails, Haml, Sass, Javascript, Pivotal Tracker, Travis CI, 
+CodeClimate, Cucumber, Rspec, Heroku&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;h3 id=&quot;team-workflow&quot;&gt;Team Workflow&lt;/h3&gt;
+
+&lt;p&gt;This project was very much about learning by doing — not only Rails and its
+various gems, but also the agile workflow. We had daily standups in Slack,
+wrote, pointed and assigned user stories and features in Pivotal Tracker,
+and practiced test-driven development with continuous integration and deployment.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Week one: Client meeting, create user stories/mockups for the features this 
+          iteration, write Cucumber/Rspec tests, meet with instructors for mini-review&lt;/li&gt;
+  &lt;li&gt;Week two: Work on our stories until all tests pass green, deploy for user testing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I was in charge of managing our repo, as well as continuous integration and deployment. 
+We also had a PM who looked after Pivotal Tracker and made sure our standups got done,
+and a point person for contacting our client and submitting progress reports to our 
+instructors.&lt;/p&gt;
+
+&lt;h3 id=&quot;customer-needs&quot;&gt;Customer Needs&lt;/h3&gt;
+
+&lt;p&gt;We worked with Ailed and Esme, BHNC chairs of community engagement and public
+safety, for the majority of the project.&lt;/p&gt;
+
+&lt;p&gt;One of the most successful programs Ailed and Esme manage at BHNC is the hotspot 
+walk. Residents submit hotspot forms about problems in the neighborhood that 
+affect public safety, and BHNC staff aggregate the information. Then, they
+invite the police and relevant city departments to walk with BHNC staff and neighbors 
+around the neighborhood to see the problems in person. This is often a more effective
+way of getting problems fixed than relying on individual requests from residents.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;centered-img&quot; src=&quot;/images/sample_hotspot_redacted.png&quot; alt=&quot;sample hotspot form&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;figcaption&gt;Example of submitted hotspot form, contact information redacted&lt;/figcaption&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Up until now, staff had to process over 200 of these forms per walk. One dedicated neighbor 
+was inputting all the information by hand into Google Maps in order to get a 
+visualization of problem spots.&lt;/p&gt;
+
+&lt;p&gt;Ailed also wanted to get residents more involved in resolving their own problems.
+Besides hotspot walks, there are also community meetings, park cleanups, and other
+events that Ailed wanted to easily share with residents. She had tried using Nextdoor
+but found it too time-consuming to manage and too cluttered with other topics
+to get her information across.&lt;/p&gt;
+
+&lt;p&gt;Based on these conversations with Ailed and Esme, we established three
+main functionalities of the requested web app:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gather, manage and share hotspot form information&lt;/li&gt;
+  &lt;li&gt;Provide a centralized calendar for BHNC and resident-created events&lt;/li&gt;
+  &lt;li&gt;Share useful resources with residents in one accessible location&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;design-process&quot;&gt;Design Process&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bh_flow.jpg&quot; alt=&quot;admin flow&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We started out with a broad brainstorming session for how the app
+would be put together. Each iteration, if needed, we would sketch out how the
+new features would fit into the current plan and run those by Ailed and Esme.
+Within our team, we often tried to do group design on the whiteboard,
+and shared our sketches over Slack when meeting up wasn’t possible.&lt;/p&gt;
+
+&lt;p&gt;For most of our big questions, we made low-fi prototypes in POP and travelled in person 
+to SF to have Ailed, Esme and Bernal residents do some user testing. I was in charge of 
+making a wizard version of the hotspot form to compare against the single-page version.&lt;/p&gt;
+
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;iframe src=&quot;https://popapp.in/w/projects/56eb0d6243b167426a24622f/embedded&quot; width=&quot;400&quot; height=&quot;908&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;design-decisions&quot;&gt;Design Decisions&lt;/h3&gt;
+
+&lt;p&gt;We made a few significant changes to our designs based on the feedback we got
+from user testing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Location Search&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Testers assumed that the first step to submitting a hotspot form was specifying a location. 
+Many attempted to “drop a pin” on to the map. We initially had location come after specifying 
+the type of issue being reported. Seeing testers’ reactions, however, we went back to the 
+drawing board. Although dropping a pin was a natural reaction for users, we felt that in 
+reality being able to do that accurately, especially if on a mobile browser, would be difficult. 
+Instead, we added a search bar to the map; searching for a location would drop a pin and pop 
+up a link to fill out the rest of the hotspot form.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hotspot_location.png&quot; alt=&quot;hotspot location&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Hotspot with location search&lt;/figcaption&gt;
+
+&lt;p&gt;&lt;strong&gt;Sign-in&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Initially, we planned to use sign-in and 3rd party authentication to eliminate the need for filling
+in name and contact information on every submitted form. This seemed like a time-saving feature
+that would encourage more people to submit. After user testing, however, we eliminated sign-in
+for residents. Testers said requiring a user name and password made the application feel unwelcoming; 
+the sign-in page was more of a barrier to them than filling out their information.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hotspot Form Wizard&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We ended up implementing a wizard to walk through the required information for hotspot
+forms, since most testers reported feeling more overwhelmed by the single-page prototype,
+and visibily enjoyed using the wizard version more.&lt;/p&gt;
+
+&lt;h3 id=&quot;admin-workflow&quot;&gt;Admin Workflow&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/admin_homepage.png&quot; alt=&quot;admin homepage&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Final admin homepage&lt;/figcaption&gt;
+
+&lt;p&gt;Since I ended up taking on many of the admin-side user stories, I thought a lot about
+Ailed’s personality and the contexts in which she’d be using this app. Working
+in a small non-profit already meant being strapped for time and resources; in addition,
+Ailed was a new mother. I decided to create a homepage that would prompt Ailed if anything needed her 
+attention — for example, if any new events had been submitted and needed approval —
+and would provide immediate access to her most common tasks.&lt;/p&gt;
+
+&lt;p&gt;Some other small details worked in by the last iteration: if signed in, the admin doesn’t 
+need to fill out name, contact info or organization name on any of the forms. The events 
+calendar has a reminder about the number of unapproved events. Clicking on a pin in the 
+admin hotspot map will show a link to the entire form submission; earlier iterations,
+the only way to view that information was going through the list of hotspots below the map.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/hotspot_admin_1024.png&quot; alt=&quot;bhnc calendar&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Admin hotspots page&lt;/figcaption&gt;
+
+&lt;h3 id=&quot;final-thoughts&quot;&gt;Final Thoughts&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bh_visit.jpg&quot; alt=&quot;me at bhnc&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;At in-person meeting with Ailed and Esme&lt;/figcaption&gt;
+
+&lt;p&gt;It was extremely rewarding working with a non-profit for the semester,
+especially because I know firsthand how difficult it is to get projects like
+these off the ground without outside help.&lt;/p&gt;
+
+&lt;p&gt;Outside of software development, we learned a lot about how to communicate 
+effectively. While Ailed had a general idea of what she wanted, she didn’t have 
+a clear picture of the possibilities or limitations of a web application. 
+We found that having visual representations ready while discussing features
+was the best way to elicit useful feedback, absent opportunities to speak face to face. 
+We did manage to make two trips to BHNC in person, and those meetings were the most
+fruitful. Not only did we clarify many questions, but we also got a feel for the
+characteristics of Bernal Heights, BHNC, and some of its residents.&lt;/p&gt;
+
+&lt;p&gt;Agile development was a first for most of us, and the test-driven process
+was especially taxing at first. In addition, we had to keep on revising our back-end
+relationship models as user stories and features were added or discarded.
+At the same time, our workflow had everyone involved in discussing both UX
+and implementation, and I enjoyed that immensely. I also liked learning how to
+test with Cucumber, which made it easier to focus discussion about app
+features on user needs instead of specific technologies or implementation.&lt;/p&gt;
+
+&lt;p&gt;Although we won’t all be continuing to work on this app, I couldn’t have asked 
+for a better group of people to work with during the semester.
+I’ll miss getting their Slack notifications :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bh_group_pic.jpg&quot; alt=&quot;team picture&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Going forward, one of my teammates and I have committed 
+to staying in touch with Ailed and maintaining the app post-graduation.&lt;/p&gt;
+
+&lt;p&gt;Some of our plans:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;make UX better for certain groups of neighbors - those who would like to print
+records out or want confirmation of their submissions&lt;/li&gt;
+  &lt;li&gt;add the attach photo functionality to hotspot forms&lt;/li&gt;
+  &lt;li&gt;cluster hotspots that are about the same location&lt;/li&gt;
+  &lt;li&gt;unify visual design, and also match look and feel of app better to the characteristics of BHNC&lt;/li&gt;
+&lt;/ul&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Zest</title>
+    <link href="/portfolio/zest/"/>
+    <updated>2016-06-22T00:00:00+00:00</updated>
+    <id>/portfolio/zest</id>
+    <author>
+      <name>Candy Chang</name>
+      <uri>/</uri>
+      <email>candyichang@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;img src=&quot;/images/zest_header.png&quot;&gt;&lt;br/&gt;
+      &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/j18eTHD7LU4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;An IoT cooking experience integrating sensors and existing devices. 
+Worked with a team of five mechanical engineers. Class project for ME110, 
+New Product Development. Prompt from our sponsors, Samsung: 
+“Leisure and Entertainment,” ideally something using speakers and sensors.&lt;/p&gt;
+
+&lt;h3 id=&quot;involvement&quot;&gt;Involvement&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Participated in all aspects of product development process&lt;/li&gt;
+  &lt;li&gt;Created interactive prototypes in Marvel and Invision&lt;/li&gt;
+  &lt;li&gt;Prepared decks and led presentations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+
+&lt;p&gt;Pencil and paper, whiteboard, post-its, Marvel, Invision, Adobe Illustrator&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;h3 id=&quot;concept-generation&quot;&gt;Concept Generation&lt;/h3&gt;
+
+&lt;p&gt;We were given a broad prompt “make an IoT product within the theme of Leisure
+and Entertainment” and told we could do pretty much what we wanted. As a
+result, we revisited the brainstorm stage many times and conducted several rounds of 
+interviews as we slowly narrowed our focus to enhancing the cooking experience.&lt;/p&gt;
+
+&lt;div class=&quot;slick-carousel&quot;&gt;
+  &lt;div&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;/images/zest_brainstorm_a.jpg&quot; alt=&quot;brainstorm ideas&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+     &lt;img class=&quot;centered-img&quot; src=&quot;/images/zest_brainstorm_b.jpg&quot; alt=&quot;brainstorm ideas&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+     &lt;img class=&quot;centered-img&quot; src=&quot;/images/zest_brainstorm_c.jpg&quot; alt=&quot;brainstorm ideas&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+     &lt;img class=&quot;centered-img&quot; src=&quot;/images/zest_brainstorm_d.jpg&quot; alt=&quot;brainstorm ideas&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+     &lt;img class=&quot;centered-img&quot; src=&quot;/images/zest_brainstorm_e.jpg&quot; alt=&quot;brainstorm ideas&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;Some of the ideas I contributed to the brainstorming sessions&lt;/figcaption&gt;
+
+&lt;p&gt;I learned a lot by visiting people in person and asking 
+them to show me how they did things. For example, one of my interviewees 
+said he enjoyed listening to music and talkshows while cooking, but didn’t bring
+up anything inconvenient about the process. When I asked 
+to see how he set up his cooking space, however, he grabbed his laptop and 
+placed it on top of the trashcan! It had become such a regular thing for him 
+that he didn’t think to bring it up when I asked at first.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/trashcan_music.jpg&quot; alt=&quot;laptop on trashcan&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The user needs we concluded from our interviews:
+- control devices without getting them dirty or breaking workflow
+- adapt to changing environment with little user involvement (sounds, placement in the kitchen)
+- improve cooking skills
+- share accomplishments with friends family
+- figure out what to cook&lt;/p&gt;
+
+&lt;h3 id=&quot;prototypes&quot;&gt;Prototypes&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zest_midterm_prototypes.jpg&quot; alt=&quot;three prototypes&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We created three different prototypes for our midterm tradeshow. They each tested a 
+different aspect of our cooking ideas. Mr. Pan was the interactive cooking teacher,
+the Smart Cutting Board could display videos and recipes, and Basket was a cooking
+challenge app where friends could challenge each other to cook with random ingredients.&lt;/p&gt;
+
+&lt;p&gt;The prototypes were at different levels of fidelity and functionality to test different
+things. Mr. Pan was hooked up to an Arduino and would react to someone “cooking” inside
+of it. The Smart Cutting Board was literally an iPad displaying a few screen mockups. 
+Basket was a low-fi interactive prototype made in Marvel, to see if people understood
+the concept and found it interesting.&lt;/p&gt;
+
+&lt;p&gt;I was in charge of creating the Basket prototype. I chose to use Marvel as my prototyping
+tool because I could take pictures of my sketched mockups and turn those directly into
+my prototype. I didn’t want to create something in Illustrator or Photoshop so early on,
+because that would keep people from giving feedback on the concept itself.&lt;/p&gt;
+
+&lt;div class=&quot;centered&quot;&gt;
+  &lt;iframe src=&quot;https://marvelapp.com/d95b0j?emb=1&quot; width=&quot;330&quot; height=&quot;640&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;We distributed surveys to everyone who tried our products, asking when and how often they
+would think about using the product, as well as what their experience with the prototype was
+like. We also asked which of the products they enjoyed the most out of the three. We collected
+approximately 30 surveys total. The responses confirmed most of the conclusions from our user interviews,
+and brought a few new insights.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Users wanted notifications and alerts during the cooking process.&lt;/li&gt;
+  &lt;li&gt;They didn’t want to buy an entirely new device or kitchen appliance - they would prefer if the product
+were sold separately and could integrate with their existing products&lt;/li&gt;
+  &lt;li&gt;They liked having recipe suggestions.&lt;/li&gt;
+  &lt;li&gt;They wanted to be able to control their music while cooking.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;concept-selection&quot;&gt;Concept Selection&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zest_concept_selection.jpg&quot; alt=&quot;concept matrix&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Post-tradeshow, we evaluated the three prototypes against what we learned from 
+the survey feedback. Mr. Pan and the Smart Cutting Board both were well-received
+at the tradeshow. People liked the learning aspect, as well as the integrated
+nature of the controls. One problem they had with both devices, however, was
+that they would have to buy a completely new appliance in order to get these
+features.&lt;/p&gt;
+
+&lt;p&gt;When we conducted competitive analysis, we also found a Mr. Pan-like product on 
+Kickstartr already — an intelligent pan that used temperature information
+to help users cook more accurately. There were also a variety of recipe and
+cooking apps for smartphones and tablets out in the market already.
+To figure out how to find a competitive advantage in this market, we made
+a concept matrix and decided to create a completely new product, taking
+relevant ideas from each prototype.&lt;/p&gt;
+
+&lt;p&gt;The key change from our previous prototypes was a shift from an intelligent
+cooking device, to sensors that could be attached to existing appliances.
+To lock down finer details of our new prototype, we conducted
+about 30 more short interviews to find the most needed features.&lt;/p&gt;
+
+&lt;h3 id=&quot;final-prototype&quot;&gt;Final Prototype&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/zest.jpg&quot; alt=&quot;zest demo&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Sensor set-up demo. The prototypes were 3-D printed by one of my teammates.&lt;/figcaption&gt;
+
+&lt;p&gt;Zest is a collection of sensors that can be attached to various cooking implements
+and cookware. When they sync with the mobile application, they can provide
+contextual cooking instructions and notifications. The sensors also act as
+volume control, so no matter where you are in your kitchen you can adjust your
+entertainment as you wish.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;centered-img&quot; src=&quot;/images/zest_roadmap.png&quot; alt=&quot;recipe flow&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Stages of an amateur cook&lt;/figcaption&gt;
+
+&lt;p&gt;We designed Zest with the above roadmap in mind. I spoke with many people who
+didn’t cook regularly, or wanted to but weren’t able to for one reason or another.
+For some people, it was really about avoiding doing dishes; for others, the 
+“ominvore’s dilemma” struck them every time they opened the fridge to try and
+figure out what to cook. Some people simply didn’t want to touch raw food
+or go through the effort of preparing it when take-out was readily available.&lt;/p&gt;
+
+&lt;p&gt;We wanted to make a product that could support people at every stage of the
+cooking process, transitioning them from finding it a chore, to becoming eager
+to learn more, to getting creative and sharing their success. We even thought
+about adding an “orchestra mode,” where music would change according to
+a user’s actions in the kitchen — a throwback to Mr. Pan.&lt;/p&gt;
+
+&lt;p&gt;I was in charge of creating the mobile app portion of the prototype. It was
+challenging to work out the recipe screens, and they could have done with
+more user testing if we had the time. Zest provided not only cooking instructions,
+but music control as well — this meant parceling out screen estate accordingly
+and deciding what to show and what to hide away.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zest_prototype_stitched.jpg&quot; alt=&quot;rough UI sketches&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Rough sketches for UI design&lt;/figcaption&gt;
+
+&lt;p&gt;This time I used Invision to string together the views, since we
+wanted something more polished to test out at the final showcase. Invision can
+only handle one orientation at a time, though, so the prototype is split into
+two parts for easier desktop viewing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;btn-secondary&quot; href=&quot;https://invis.io/F97N9TBHS&quot;&gt;Onboarding&lt;/a&gt;
+&lt;a class=&quot;btn-secondary&quot; href=&quot;https://invis.io/9U2X87YK4&quot;&gt;Cooking Instructions&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;slick-carousel&quot;&gt;
+  &lt;div&gt;
+    &lt;img src=&quot;/images/invision_screenshot.png&quot; alt=&quot;invision screenshot&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+     &lt;img src=&quot;/images/zest_onboarding_flow.png&quot; alt=&quot;onboarding flow&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+     &lt;img src=&quot;/images/zest_choose_recipe.png&quot; alt=&quot;choose recipe flow&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+     &lt;img src=&quot;/images/zest_recipe_screens_1.png&quot; alt=&quot;recipe flow&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+     &lt;img src=&quot;/images/zest_recipe_screens_2.png&quot; alt=&quot;recipe flow&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Since we changed product ideas near the end of the semester, we didn’t get
+to test Zest out with that many users. If we had more time, I would have wanted to
+do some actual kitchen testing with this prototype. Would they be comfortable with 
+these sensors stuck all over their appliances? Do the steps and the cooking timers 
+make sense? An important consideration our mentors told us to think about was 
+repeatability. Would sensor set-up be troublesome enough that users would decide
+not to integrate it into their usual workflow?&lt;/p&gt;
+
+&lt;h3 id=&quot;final-thoughts&quot;&gt;Final Thoughts&lt;/h3&gt;
+
+&lt;p&gt;An important lesson learned from this project was how to factor in design 
+within a business context. How can you design something that can win market 
+share from other products, or generate a primary market, like Apple once did 
+with the iPhone? Coming up with something that meets user needs is a first step, 
+but other considerations come into play — available technology, profitability, 
+manufacturability, sustainability and so on. A product can only survive if it 
+manages to balance everything; no wonder iteration is so often a fitting 
+development method.&lt;/p&gt;
+
+&lt;p&gt;Another big part of this experience was working within a multi-disciplinary team.
+It was great to see different perspectives from my teammates, who 
+were mechanical engineers, with one also pursuing architecture and one
+doubling with EECS. If I had been on a team of only CS students, I think we 
+would have mostly explored software-only solutions. With more variety in thinkers at 
+the table, we managed to explore many more possibilities!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/zest_members.jpg&quot; alt=&quot;Samsung IoTeam members!&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>PiE Annual Report</title>
+    <link href="/portfolio/annual-report/"/>
+    <updated>2016-06-21T00:00:00+00:00</updated>
+    <id>/portfolio/annual-report</id>
+    <author>
+      <name>Candy Chang</name>
+      <uri>/</uri>
+      <email>candyichang@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;img src=&quot;/images/annual_report_map_pages.jpg&quot;&gt;&lt;br/&gt;
+      &lt;p&gt;&lt;a href=&quot;/assets/annual_report.pdf&quot; class=&quot;btn&quot;&gt;Download Report&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;PiE’s annual reports have historically been 15+ page word documents sent out to
+sponsors at the end of every fiscal year. I redesigned and wrote most of the
+copy for the 2014-2015 report, which covers PiE during my year as director. 
+I incorporated plenty of images and statistics to make our impact clearer to 
+sponsors, alumni, the general public, and potential donors. As of spring 2016, 
+sending out this report has helped raise over $10,000 in funding from sponsors.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Opportune</title>
+    <link href="/portfolio/opportune/"/>
+    <updated>2016-06-19T00:00:00+00:00</updated>
+    <id>/portfolio/opportune</id>
+    <author>
+      <name>Candy Chang</name>
+      <uri>/</uri>
+      <email>candyichang@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;img src=&quot;/images/opportune_feature.jpg&quot;&gt;&lt;br/&gt;
+      &lt;p&gt;&lt;a class=&quot;btn&quot; href=&quot;https://www.hackster.io/mango-innovations/opportune-9cf9a9&quot;&gt;Hackster.io Project Report&lt;/a&gt;
+&lt;a class=&quot;btn-secondary&quot; href=&quot;/assets/PalantirRecruiterContextualInquiry.pdf&quot;&gt;Full Contextual Inquiry&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/114516289&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;A proof-of-concept for a Qualcomm Toq smartwatch app for recruiters. 
+Class project for CS160, User Interface Design. Worked on a team of five
+computer science majors; we split the roles into two designers, three
+developers.&lt;/p&gt;
+
+&lt;h3 id=&quot;involvement&quot;&gt;Involvement&lt;/h3&gt;
+&lt;p&gt;For this project I was most involved in user research and visual design.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Participated in brainstorming and illustrated initial selected concepts&lt;/li&gt;
+  &lt;li&gt;Performed contextual inquiry with Palantir recruiters, then crafted our 
+personas using the information&lt;/li&gt;
+  &lt;li&gt;Made hi-fi mockups for Toq watch and Android views&lt;/li&gt;
+  &lt;li&gt;Created presentation decks and led pitches&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+&lt;p&gt;Pencil and paper, Photoshop, Illustrator&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;h3 id=&quot;brainstorm&quot;&gt;Brainstorm&lt;/h3&gt;
+&lt;p&gt;We brainstormed possible smartwatch applications as a group, clustering similar
+ideas together and building off of other people’s ideas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/mangoinnovations_brainstorm.jpg&quot; alt=&quot;post-it brainstorming&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/mango_innovations_firstideas-2.jpg&quot; alt=&quot;news app&quot; width=&quot;220px&quot; /&gt;
+&lt;img src=&quot;/images/mango_innovations_firstideas-3.jpg&quot; alt=&quot;food app&quot; width=&quot;220px&quot; /&gt;
+&lt;img src=&quot;/images/mango_innovations_firstideas-4.jpg&quot; alt=&quot;carpool app&quot; width=&quot;220px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I illustrated our top three concepts to present at our initial design review.
+In the end, however, we chose a fourth idea that we bounced around during the 
+review session: an app that would enable users to exchange contact information 
+using common hand gestures. We further narrowed down our focus user group to 
+recruiters and job seekers at career fairs.&lt;/p&gt;
+
+&lt;h3 id=&quot;user-studies&quot;&gt;User Studies&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/career_fair.jpg&quot; alt=&quot;career fair sketches&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I visited career fairs to make observations and find interview subjects. Happily, 
+at one engineering career fair, I even got permission to perform contextual inquiry 
+with a group of Palantir recruiters. Here are some of the observations and takeaways.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Environment&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;300&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/270261772%3Fsecret_token%3Ds-SYHe8&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=false&amp;amp;show_user=false&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Career fairs are really crowded, busy and loud. If you put something down or give 
+something away it’s hard to keep track of it. Reaching over tables to put away 
+stacks of collected resumes, or to just get a water bottle, is physically inconvenient.
+Having someone at the table coordinating is extremely useful, especially when trying
+to grab things or put things away is difficult due to lack of space. Getting people’s
+attention is difficult due to the noise. In addition, the layout and space constraints 
+mean that even tapping someone on the shoulder isn’t an easy task.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Process&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Handshake and greeting come before looking at resume. The goal is to get personal 
+face time with candidates and carry on a conversation.&lt;/p&gt;
+
+&lt;p&gt;Note-taking: The engineers and recruiters take short notes, usually only three or 
+four lines. They never write on the front of resumes to avoid bias, only the back. 
+Palantir uses post-its, in addition to having a pen and clipboard for the resume. 
+Post-its go on the back of the clipboard; they’re there in case there are doublesided
+resumes, or there are people who didn’t bring resumes and they need to write down 
+contact info. Things to write down:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The initials of whoever talked to the student, for later reference&lt;/li&gt;
+  &lt;li&gt;The student’s interest/possible team&lt;/li&gt;
+  &lt;li&gt;Internship/full time&lt;/li&gt;
+  &lt;li&gt;If there was a technical question, the problem and the rating&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Post-fair, recruiters will have to manually scan the resumes into whatever CMS
+they use to track applicants. This is the part of the process that has some
+companies turning to using tablets at career fairs. Palantir doesn’t use them,
+however, because they’ve found it stalls conversations and causes backlog.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quantitative Observations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;These are rough counts.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The average number of students at the booth was 8.4. This was a pretty high number
+in comparison to many other booths, given Palantir’s popularity. Keeping wait
+times down is important because some students will just leave if they have
+to stand in line for too long. Palantir’s recruiters aim for five minutes per
+person, but it’s really hard to keep to that goal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/palantir_student_graph.png&quot; alt=&quot;students at booth over time&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Things they carried: the top five ways students held their resumes&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Plastic or other cheap folder (26)&lt;/li&gt;
+  &lt;li&gt;Just papers (18)&lt;/li&gt;
+  &lt;li&gt;File folder (16)&lt;/li&gt;
+  &lt;li&gt;Notebook (7)&lt;/li&gt;
+  &lt;li&gt;Manila envelope (4)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Based on the findings from this contextual inquiry, as well as other user interviews
+conducted by teammates, we came up with a few important user needs:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Facilitate face-to-face conversations with candidates&lt;/li&gt;
+  &lt;li&gt;Note down necessary information about candidate during conversation&lt;/li&gt;
+  &lt;li&gt;Collect all information in a way that eliminates the need for manual entry&lt;/li&gt;
+  &lt;li&gt;Manageable with only one free hand, limited movements and loud surrounding environment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;prototype-design&quot;&gt;Prototype Design&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/toq_tagging.jpg&quot; alt=&quot;tagging candidate info&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We designed our prototype to fulfill features based on the key user needs
+we highlighted from our studies: contact exchange, tagging, and third-party 
+integration.&lt;/p&gt;
+
+&lt;p&gt;We initially hoped to implement note-taking, but given the Toq watch’s limited
+capabilities, as well as the small screen estate, we turned
+to tagging instead. This was a viable alternative, since our user studies 
+showed that recruiters take very little notes, and they usually have predictable
+inputs that can be set beforehand.&lt;/p&gt;
+
+&lt;p&gt;In order to make digital submission of information as painless as possible,
+we felt the best way was to integrate with platforms like LinkedIn, GitHub
+and Behance to help candidates showcase their experience and make it simple
+to port all the information into a company’s CMS.&lt;/p&gt;
+
+&lt;h3 id=&quot;ui-design&quot;&gt;UI Design&lt;/h3&gt;
+
+&lt;p&gt;I was in charge of the visual/UI design for the prototype’s watch and mobile views.
+This included designing the logo: a stylized representation of a handshake.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;centered-img&quot; src=&quot;/images/opportune_logo.png&quot; alt=&quot;opportune logo&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Designing for the Toq watch was mostly about figuring out what was
+supported by the SDK, and what things to give up on at the design stage
+because of hardware and software limitations. Possible interactions like
+bumping watches or sliding cards across to each other were ruled out at
+the sketching stage.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/opportune_sketches_b.jpg&quot; alt=&quot;toq sketches&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Smartwatch sketches&lt;/figcaption&gt;
+
+&lt;p&gt;The biggest challenge for the mobile views was working out how to fit
+so much information within a small screen. I ended up going with an
+accordion pattern, with the main job title and company visible and
+details hidden by default.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/opportune_sketches_a.jpg&quot; alt=&quot;rough UI sketches&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Sketching possible layouts&lt;/figcaption&gt;
+
+&lt;div class=&quot;slick-carousel&quot;&gt;
+  &lt;div&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;/images/opportune_initial.jpg&quot; alt=&quot;initial login&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;/images/opportune_login.jpg&quot; alt=&quot;logging in&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;/images/opportune_schools.jpg&quot; alt=&quot;school view&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;/images/opportune_candidates.jpg&quot; alt=&quot;school view&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;/images/opportune_profile.jpg&quot; alt=&quot;school view&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;figcaption&gt;Mockups for Framer.js&lt;/figcaption&gt;
+
+&lt;h3 id=&quot;final-thoughts&quot;&gt;Final Thoughts&lt;/h3&gt;
+
+&lt;p&gt;I learned a lot about designing around limitations during this
+project. The watch form factor influenced all our technical and product decisions;
+we had to set aside several of our ideas because they didn’t work with the small
+screen estate or the possible modes of interaction. We also had to consider
+likely user bases — smartwatches are not ubiquitous, and certain user groups,
+like high-salaried tech workers, are more likely to have them.&lt;/p&gt;
+
+&lt;p&gt;We worked on this project around the time when the Apple Watch was first being
+promoted. Smartwatch technology and design has advanced since then, and it’s
+exciting to think that some of our early ideas might be possible to achieve now.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/mango_final_group_pic.jpg&quot; alt=&quot;opportune group picture&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>CaptureProof</title>
+    <link href="/portfolio/captureproof/"/>
+    <updated>2016-06-18T00:00:00+00:00</updated>
+    <id>/portfolio/captureproof</id>
+    <author>
+      <name>Candy Chang</name>
+      <uri>/</uri>
+      <email>candyichang@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;img src=&quot;/images/captureproof_postits.jpg&quot;&gt;&lt;br/&gt;
+      &lt;p&gt;I was a Design and UI/UX intern at &lt;a href=&quot;http://captureproof.com/ CaptureProof link&quot;&gt;CaptureProof&lt;/a&gt;, 
+a medical media startup that provides a HIPAA-compliant platform for sharing photos and video
+between doctors and patients.&lt;/p&gt;
+
+&lt;h3 id=&quot;iphone-mockups&quot;&gt;iPhone Mockups&lt;/h3&gt;
+
+&lt;p&gt;An example of the mockups I made for the iPhone app. For all my work, I first
+sketched out ideas and ran them by the CEO. Once she was satisfied, I made
+higher fidelity mockups in Photoshop. By the end of my internship I had produced 
+mockups for all the main functionalities available in the mobile app at that time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/captureproof_sketch.png&quot; alt=&quot;UI sketches&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Sketches&lt;/figcaption&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/captureproof_process.png&quot; alt=&quot;initial screen to final&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;From initial view to re-design&lt;/figcaption&gt;
+
+&lt;h3 id=&quot;wireframes&quot;&gt;Wireframes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a class=&quot;btn&quot; href=&quot;https://drive.google.com/open?id=0B0ssrMcyToYUQUJnOG5WaDhiTDA&quot;&gt;See all wireframes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/captureproof_balsamiq.png&quot; alt=&quot;Balsamiq mockup of sign-up page&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;The sign-up process&lt;/figcaption&gt;
+
+&lt;p&gt;The CEO wanted a re-design of the onboarding process, to make the mobile
+and web applications feel consistent. I was tasked with creating Balsamiq
+wireframes for inviting patients and onboarding doctors through the web
+app, then re-creating a similar flow with the mobile app.&lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Dérive</title>
+    <link href="/portfolio/derive/"/>
+    <updated>2016-06-17T00:00:00+00:00</updated>
+    <id>/portfolio/derive</id>
+    <author>
+      <name>Candy Chang</name>
+      <uri>/</uri>
+      <email>candyichang@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;img src=&quot;/images/derive_feature.jpg&quot;&gt;&lt;br/&gt;
+      &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/viN2o8-oxXo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;UI design for a hypothetical navigation application based on the Situationist’s 
+&lt;a href=&quot;http://www.cddc.vt.edu/sionline/si/theory.html Theory of the Dérive&quot;&gt;dérive&lt;/a&gt; , 
+where one “drifts” in an unplanned way through a city, subconsciously guided
+by the architecture and geography of the surroundings.&lt;/p&gt;
+
+&lt;p&gt;Users of this application can choose a location, invite friends to
+dérive to the destination as well, and then select the kind of wandering 
+experience they would like to have before arriving at their destination.
+In contrast to most navigation applications, which give you the fasted route
+to your destination, Dérive’s focus is on crafting a unique journey to that
+destination.&lt;/p&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
+&lt;p&gt;Illustrator, Photoshop, Framer.js&lt;/p&gt;
+
+&lt;h2 id=&quot;details&quot;&gt;Details&lt;/h2&gt;
+&lt;p&gt;I really enjoyed the idea of wandering through a city, taking the time to really
+look at the surroundings instead of worrying about the final destination.
+I wanted the app to feel whimsical to users, with copy, visuals and interactions
+encouraging them to explore.&lt;/p&gt;
+
+&lt;h3 id=&quot;visual-design&quot;&gt;Visual Design&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/derive_colors.png&quot; alt=&quot;derive color palette&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I usually start off with rough sketches of screens and how they flow together, 
+but for this project, I started with the colors and patterns above. There
+are far more colors than I usually work with, because I wanted to represent
+the possibilities of adventure, and the many facets of a place waiting
+to be explored.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/derive_island_plane.png&quot; alt=&quot;island and plane graphics&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The plane and the island were offhand explorations I made while working on the
+background patterns. They fit the spirit of the app, so I ended up integrating
+them into the visual design. The plane helped express movement from screen
+to screen, and the island became the symbol for the final location.&lt;/p&gt;
+
+&lt;h3 id=&quot;interactions&quot;&gt;Interactions&lt;/h3&gt;
+
+&lt;p&gt;Derive is supposed to inspire exploration, so I felt a typical form with
+radio buttons or dropdowns would be too boring when it came to expressing
+route preferences. Since the prompt required that users be able to 
+customize several different elements of the trip, a more interesting
+presentation would also keep users from feeling like stopping halfway through.&lt;/p&gt;
+
+&lt;div class=&quot;slick-carousel&quot;&gt;
+  &lt;div&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;/images/derive_activity_drawn.jpg&quot; alt=&quot;activity level&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;/images/derive_safety.jpg&quot; alt=&quot;safety level&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;/images/derive_environ_vars.jpg&quot; alt=&quot;environment preferences&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;/images/derive_randomizer.jpg&quot; alt=&quot;randomizer&quot; itemprop=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;For example, the typical question for activity level is something along the lines of 
+“light, average, or heavy workout?” When you think about energy level and
+typical workouts though, the intensity is rarely a constant amount. 
+There are also physical limitations to consider; some people need to avoid 
+stairs or hilly regions as much as possible. Being able to draw out how you’d 
+like your journey to feel, instead of specifying these factors in words or
+dropdown selections would be pretty interesting.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-thoughts&quot;&gt;Final Thoughts&lt;/h2&gt;
+
+&lt;p&gt;This was my first time using Framer.js as a prototyping tool. It was a great
+experience being able to code interactions for individual elements instead
+of relying on the per-screen animations of tools like Marvel or Invision.&lt;/p&gt;
+
+&lt;p&gt;Looking back on this project, I just wanted to have more interesting 
+interactions. Interesting, however, can’t really trump usability. If
+I had a second iteration of this prototype, these would be just a few
+of the questions I’d work on: Is there some kind of confirmation that the app 
+has interpreted your drawing correctly, and a way to adjust the result? How 
+can a user tell right now what exactly a “safe” or a “risky” trip would
+entail? Would a user have to repeat these settings each time they wanted
+to go on a derive, or is there a way to save these customizations?&lt;/p&gt;
+
+&lt;p&gt;Even now, I’m still in love with the concept of the dérive, probably
+because I find cultural landscape studies and thinking about how infrastructure 
+and buildings impact how we act and feel to be really fascinating. It’s similar 
+to thinking about how physical and digital interfaces influence people’s actions
+and thoughts.&lt;/p&gt;
+
+&lt;p&gt;Moreover, in this age of Google Maps and door to door delivery for almost anything,
+dérives would be a good reminder to savor the journey — and make the effort
+to have one in the first place! — instead of skipping directly to the end.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Watch in the Wild</title>
+    <link href="/portfolio/watch-in-the-wild/"/>
+    <updated>2016-06-16T00:00:00+00:00</updated>
+    <id>/portfolio/watch-in-the-wild</id>
+    <author>
+      <name>Candy Chang</name>
+      <uri>/</uri>
+      <email>candyichang@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;img src=&quot;/images/watch_materials.jpg&quot;&gt;&lt;br/&gt;
+      &lt;p&gt;A low-fi prototype for a team roster/attendance watch application. 
+Demonstrates once cycle of iterative process, from 
+interviewing to brainstorming to prototyping to testing.
+It’s very near and dear to me, because any chance to do some crafting
+instead of just making digital mockups is great!&lt;/p&gt;
+
+&lt;p&gt;See the &lt;a href=&quot;https://www.hackster.io/candychang/design-01-watches-in-the-wild-ca1f16 Hackster.io post&quot;&gt;Hackster.io post&lt;/a&gt; for the full design process.&lt;/p&gt;
+
+&lt;iframe frameborder=&quot;0&quot; height=&quot;328&quot; scrolling=&quot;no&quot; src=&quot;https://www.hackster.io/candychang/design-01-watches-in-the-wild-ca1f16/embed?use_route=project&quot; width=&quot;350&quot;&gt;&lt;/iframe&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/sketchbook/hello-world/"/>
+    <updated>2016-01-19T00:00:00+00:00</updated>
+    <id>/sketchbook/hello-world</id>
+    <author>
+      <name>Candy Chang</name>
+      <uri>/</uri>
+      <email>candyichang@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;img src=&quot;/images/notebook_a_1024x256.png&quot;&gt;&lt;br/&gt;
+      &lt;p&gt;I’m planning to use this as a digital sketchbook.
+It’s an experiment, half to get me to create more content on a regular basis, and half to log the random stuff I do have in my notebooks etc.&lt;/p&gt;
+
+&lt;p&gt;Sometimes it’ll be writing, sometimes it’ll be random crafts I’ve made for someone, sometimes it’ll actually be sketches.&lt;/p&gt;
+
+&lt;p&gt;Let’s see how it goes.&lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  
+</feed>
