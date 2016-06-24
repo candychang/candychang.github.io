@@ -170,8 +170,8 @@
 	}
 	
 	
-	// .two-col {
- // 	}
+	.two-col {
+  	}
 
 	.left-col{
 		@include span-columns(5);
@@ -186,6 +186,7 @@
 		@include omega();
 		@include media(max-width em(600) 12) {
 			@include fill-parent;
+			mar
 		}
 	}
 	

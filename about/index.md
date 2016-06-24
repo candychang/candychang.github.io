@@ -11,7 +11,7 @@ ads: false
         <img src="{{ site.url }}/images/profile_b.jpg" alt="this is me" itemprop="image">
     </div>
     <div class="right-col">
-        <p class="right-col-top">Hi! My name is Candace Chang -- but I've gone by Candy since my sister
+        <p class="right-col-top">Hi! My name is Candace Chang. I've gone by Candy since my sister
             came up with that name while eating candy in the hospital.
         </p>
         <p> I'm a recent UC Berkeley graduate with a fancy-sounding
