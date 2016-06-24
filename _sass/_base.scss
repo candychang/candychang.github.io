@@ -198,6 +198,13 @@ figcaption {
   }
 }
 
+.centered {
+	text-align: center;
+	margin: auto;
+	padding: auto;
+}
+
+
 /* Fix IE9 SVG bug */
 svg:not(:root) {
   overflow: hidden;

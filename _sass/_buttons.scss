@@ -35,8 +35,10 @@
 
 .btn-block {
 	@extend .btn;
-	display: block;
-	margin: auto;
+	@include media($small) {
+		display: block;
+		margin: auto;
+	}
 }
 
 /*

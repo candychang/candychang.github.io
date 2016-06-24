@@ -1,0 +1,233 @@
+---
+layout: media
+title: Zest
+modified:
+categories: portfolio
+excerpt: Product Development
+tags: []
+image:
+  feature: zest_header.png
+  teaser: zest_teaser.png
+  thumb:
+ads: false
+date: 2016-06-22
+timeframe: Spring 2015
+company: ME110/UGBA190T New Product Development
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j18eTHD7LU4" frameborder="0" allowfullscreen></iframe>
+
+## Overview
+An IoT cooking experience integrating sensors and existing devices. 
+Worked with a team of five mechanical engineers. Class project for ME110, 
+New Product Development. Prompt from our sponsors, Samsung: 
+"Leisure and Entertainment," ideally something using speakers and sensors. 
+
+### Involvement
+- Participated in all aspects of product development process
+- Created interactive prototypes in Marvel and Invision
+- Prepared decks and led presentations
+
+### Tools
+
+Pencil and paper, whiteboard, post-its, Marvel, Invision, Adobe Illustrator
+
+## Process
+
+### Concept Generation
+
+We were given a broad prompt "make an IoT product within the theme of Leisure
+and Entertainment" and told we could do pretty much what we wanted. As a
+result, we revisited the brainstorm stage many times and conducted several rounds of 
+interviews as we slowly narrowed our focus to enhancing the cooking experience.
+
+<div class="slick-carousel">
+  <div>
+    <img class="centered-img" src="{{ site.url }}/images/zest_brainstorm_a.jpg" alt="brainstorm ideas" itemprop="image">
+  </div>
+  <div>
+     <img class="centered-img" src="{{ site.url }}/images/zest_brainstorm_b.jpg" alt="brainstorm ideas" itemprop="image">
+  </div>
+  <div>
+     <img class="centered-img" src="{{ site.url }}/images/zest_brainstorm_c.jpg" alt="brainstorm ideas" itemprop="image">
+  </div>
+  <div>
+     <img class="centered-img" src="{{ site.url }}/images/zest_brainstorm_d.jpg" alt="brainstorm ideas" itemprop="image">
+  </div>
+  <div>
+     <img class="centered-img" src="{{ site.url }}/images/zest_brainstorm_e.jpg" alt="brainstorm ideas" itemprop="image">
+  </div>
+</div>
+<figcaption>Some of the ideas I contributed to the brainstorming sessions</figcaption>
+
+I learned a lot by visiting people in person and asking 
+them to show me how they did things. For example, one of my interviewees 
+said he enjoyed listening to music and talkshows while cooking, but didn't bring
+up anything inconvenient about the process. When I asked 
+to see how he set up his cooking space, however, he grabbed his laptop and 
+placed it on top of the trashcan! It had become such a regular thing for him 
+that he didn’t think to bring it up when I asked at first.
+
+<img src="{{ site.url }}/images/trashcan_music.jpg" alt="laptop on trashcan" itemprop="image" height="300px">
+
+The user needs we concluded from our interviews:
+- control devices without getting them dirty or breaking workflow
+- adapt to changing environment with little user involvement (sounds, placement in the kitchen)
+- improve cooking skills
+- share accomplishments with friends family
+- figure out what to cook
+
+### Prototypes
+
+<img src="{{ site.url }}/images/zest_midterm_prototypes.jpg" alt="three prototypes" itemprop="image" height="300px">
+
+We created three different prototypes for our midterm tradeshow. They each tested a 
+different aspect of our cooking ideas. Mr. Pan was the interactive cooking teacher,
+the Smart Cutting Board could display videos and recipes, and Basket was a cooking
+challenge app where friends could challenge each other to cook with random ingredients.
+
+The prototypes were at different levels of fidelity and functionality to test different
+things. Mr. Pan was hooked up to an Arduino and would react to someone "cooking" inside
+of it. The Smart Cutting Board was literally an iPad displaying a few screen mockups. 
+Basket was a low-fi interactive prototype made in Marvel, to see if people understood
+the concept and found it interesting.
+
+I was in charge of creating the Basket prototype. I chose to use Marvel as my prototyping
+tool because I could take pictures of my sketched mockups and turn those directly into
+my prototype. I didn't want to create something in Illustrator or Photoshop so early on,
+because that would keep people from giving feedback on the concept itself.
+
+<div class="centered">
+  <iframe src="https://marvelapp.com/d95b0j?emb=1" width="330" height="640" allowTransparency="true" frameborder="0"></iframe>
+</div>
+
+We distributed surveys to everyone who tried our products, asking when and how often they
+would think about using the product, as well as what their experience with the prototype was
+like. We also asked which of the products they enjoyed the most out of the three. We collected
+approximately 30 surveys total. The responses confirmed most of the conclusions from our user interviews,
+and brought a few new insights.
+
+1. Users wanted notifications and alerts during the cooking process.
+2. They didn’t want to buy an entirely new device or kitchen appliance - they would prefer if the product
+were sold separately and could integrate with their existing products
+3. They liked having recipe suggestions.
+4. They wanted to be able to control their music while cooking.
+
+### Concept Selection
+
+<img src="{{ site.url }}/images/zest_concept_selection.jpg" alt="concept matrix" itemprop="image" height="300px">
+
+Post-tradeshow, we evaluated the three prototypes against what we learned from 
+the survey feedback. Mr. Pan and the Smart Cutting Board both were well-received
+at the tradeshow. People liked the learning aspect, as well as the integrated
+nature of the controls. One problem they had with both devices, however, was
+that they would have to buy a completely new appliance in order to get these
+features.
+
+When we conducted competitive analysis, we also found a Mr. Pan-like product on 
+Kickstartr already --- an intelligent pan that used temperature information
+to help users cook more accurately. There were also a variety of recipe and
+cooking apps for smartphones and tablets out in the market already.
+To figure out how to find a competitive advantage in this market, we made
+a concept matrix and decided to create a completely new product, taking
+relevant ideas from each prototype.
+
+The key change from our previous prototypes was a shift from an intelligent
+cooking device, to sensors that could be attached to existing appliances.
+To lock down finer details of our new prototype, we conducted
+about 30 more short interviews to find the most needed features.
+
+### Final Prototype
+<img src="{{ site.url }}/images/zest.jpg" alt="zest demo" itemprop="image" height="300px">
+<figcaption>Sensor set-up demo. The prototypes were 3-D printed by one of my teammates.</figcaption>
+
+Zest is a collection of sensors that can be attached to various cooking implements
+and cookware. When they sync with the mobile application, they can provide
+contextual cooking instructions and notifications. The sensors also act as
+volume control, so no matter where you are in your kitchen you can adjust your
+entertainment as you wish.
+
+<img class="centered-img" src="{{ site.url }}/images/zest_roadmap.png" alt="recipe flow" itemprop="image">
+<figcaption>Stages of an amateur cook</figcaption>
+
+We designed Zest with the above roadmap in mind. I spoke with many people who
+didn't cook regularly, or wanted to but weren't able to for one reason or another.
+For some people, it was really about avoiding doing dishes; for others, the 
+"ominvore's dilemma" struck them every time they opened the fridge to try and
+figure out what to cook. Some people simply didn't want to touch raw food
+or go through the effort of preparing it when take-out was readily available.
+
+We wanted to make a product that could support people at every stage of the
+cooking process, transitioning them from finding it a chore, to becoming eager
+to learn more, to getting creative and sharing their success. We even thought
+about adding an "orchestra mode," where music would change according to
+a user's actions in the kitchen --- a throwback to Mr. Pan.
+
+I was in charge of creating the mobile app portion of the prototype. It was
+challenging to work out the recipe screens, and they could have done with
+more user testing if we had the time. Zest provided not only cooking instructions,
+but music control as well --- this meant parceling out screen estate accordingly
+and deciding what to show and what to hide away.
+
+<img src="{{ site.url }}/images/zest_prototype_stitched.jpg" alt="rough UI sketches" itemprop="image" height="300px">
+<figcaption>Rough sketches for UI design</figcaption>
+
+
+This time I used Invision to string together the views, since we
+wanted something more polished to test out at the final showcase. Invision can
+only handle one orientation at a time, though, so the prototype is split into
+two parts for easier desktop viewing.
+
+<a class="btn-secondary" href="https://invis.io/F97N9TBHS">Onboarding</a>
+<a class="btn-secondary" href="https://invis.io/9U2X87YK4">Cooking Instructions</a>
+
+
+<div class="slick-carousel">
+  <div>
+    <img src="{{ site.url }}/images/invision_screenshot.png" alt="invision screenshot" itemprop="image">
+  </div>
+  <div>
+     <img src="{{ site.url }}/images/zest_onboarding_flow.png" alt="onboarding flow" itemprop="image">
+  </div>
+  <div>
+     <img src="{{ site.url }}/images/zest_choose_recipe.png" alt="choose recipe flow" itemprop="image">
+  </div>
+  <div>
+     <img src="{{ site.url }}/images/zest_recipe_screens_1.png" alt="recipe flow" itemprop="image">
+  </div>
+  <div>
+     <img src="{{ site.url }}/images/zest_recipe_screens_2.png" alt="recipe flow" itemprop="image">
+  </div>
+</div>
+
+Since we changed product ideas near the end of the semester, we didn't get
+to test Zest out with that many users. If we had more time, I would have wanted to
+do some actual kitchen testing with this prototype. Would they be comfortable with 
+these sensors stuck all over their appliances? Do the steps and the cooking timers 
+make sense? An important consideration our mentors told us to think about was 
+repeatability. Would sensor set-up be troublesome enough that users would decide
+not to integrate it into their usual workflow?
+
+### Final Thoughts
+
+An important lesson learned from this project was how to factor in design 
+within a business context. How can you design something that can win market 
+share from other products, or generate a primary market, like Apple once did 
+with the iPhone? Coming up with something that meets user needs is a first step, 
+but other considerations come into play --- available technology, profitability, 
+manufacturability, sustainability and so on. A product can only survive if it 
+manages to balance everything; no wonder iteration is so often a fitting 
+development method.
+
+Another big part of this experience was working within a multi-disciplinary team.
+It was great to see different perspectives from my teammates, who 
+were mechanical engineers, with one also pursuing architecture and one
+doubling with EECS. If I had been on a team of only CS students, I think we 
+would have mostly explored software-only solutions. With more variety in thinkers at 
+the table, we managed to explore many more possibilities!
+
+<img src="{{ site.url }}/images/zest_members.jpg" alt="Samsung IoTeam members!" itemprop="image">
+
+
+
+
+
