@@ -186,7 +186,6 @@
 		@include omega();
 		@include media(max-width em(600) 12) {
 			@include fill-parent;
-			mar
 		}
 	}
 	
