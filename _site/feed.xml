@@ -3,10 +3,10 @@
   <channel>
     <title>tortoise &amp; badger</title>
     <description>Candy Chang&#39;s personal website and portfolio</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Jun 2016 09:00:36 +0000</pubDate>
-    <lastBuildDate>Fri, 24 Jun 2016 09:00:36 +0000</lastBuildDate>
+    <link>http://candychang.github.io/</link>
+    <atom:link href="http://candychang.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 29 Jun 2016 23:40:49 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jun 2016 23:40:49 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -15,7 +15,7 @@
 &lt;a class=&quot;btn-secondary&quot; href=&quot;https://github.com/candychang/bernal-heights&quot;&gt;Github repo&lt;/a&gt;
 &lt;a class=&quot;btn-secondary&quot; href=&quot;https://www.pivotaltracker.com/n/projects/1543993&quot;&gt;Pivotal Tracker&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/homepage.png&quot; alt=&quot;bhnc app homepage&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/homepage.png&quot; alt=&quot;bhnc app homepage&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
 
@@ -80,7 +80,7 @@ invite the police and relevant city departments to walk with BHNC staff and neig
 around the neighborhood to see the problems in person. This is often a more effective
 way of getting problems fixed than relying on individual requests from residents.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;centered-img&quot; src=&quot;/images/sample_hotspot_redacted.png&quot; alt=&quot;sample hotspot form&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;centered-img&quot; src=&quot;http://candychang.github.io/images/sample_hotspot_redacted.png&quot; alt=&quot;sample hotspot form&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;div class=&quot;centered&quot;&gt;
   &lt;figcaption&gt;Example of submitted hotspot form, contact information redacted&lt;/figcaption&gt;
 &lt;/div&gt;
@@ -106,7 +106,7 @@ main functionalities of the requested web app:&lt;/p&gt;
 
 &lt;h3 id=&quot;design-process&quot;&gt;Design Process&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/bh_flow.jpg&quot; alt=&quot;admin flow&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/bh_flow.jpg&quot; alt=&quot;admin flow&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We started out with a broad brainstorming session for how the app
 would be put together. Each iteration, if needed, we would sketch out how the
@@ -137,7 +137,7 @@ reality being able to do that accurately, especially if on a mobile browser, wou
 Instead, we added a search bar to the map; searching for a location would drop a pin and pop 
 up a link to fill out the rest of the hotspot form.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/hotspot_location.png&quot; alt=&quot;hotspot location&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/hotspot_location.png&quot; alt=&quot;hotspot location&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Hotspot with location search&lt;/figcaption&gt;
 
 &lt;p&gt;&lt;strong&gt;Sign-in&lt;/strong&gt;&lt;/p&gt;
@@ -156,7 +156,7 @@ and visibily enjoyed using the wizard version more.&lt;/p&gt;
 
 &lt;h3 id=&quot;admin-workflow&quot;&gt;Admin Workflow&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/admin_homepage.png&quot; alt=&quot;admin homepage&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/admin_homepage.png&quot; alt=&quot;admin homepage&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Final admin homepage&lt;/figcaption&gt;
 
 &lt;p&gt;Since I ended up taking on many of the admin-side user stories, I thought a lot about
@@ -172,12 +172,12 @@ calendar has a reminder about the number of unapproved events. Clicking on a pin
 admin hotspot map will show a link to the entire form submission; earlier iterations,
 the only way to view that information was going through the list of hotspots below the map.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/hotspot_admin_1024.png&quot; alt=&quot;bhnc calendar&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/hotspot_admin_1024.png&quot; alt=&quot;bhnc calendar&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Admin hotspots page&lt;/figcaption&gt;
 
 &lt;h3 id=&quot;final-thoughts&quot;&gt;Final Thoughts&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/bh_visit.jpg&quot; alt=&quot;me at bhnc&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/bh_visit.jpg&quot; alt=&quot;me at bhnc&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;At in-person meeting with Ailed and Esme&lt;/figcaption&gt;
 
 &lt;p&gt;It was extremely rewarding working with a non-profit for the semester,
@@ -205,7 +205,7 @@ features on user needs instead of specific technologies or implementation.&lt;/p
 for a better group of people to work with during the semester.
 I’ll miss getting their Slack notifications :)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/bh_group_pic.jpg&quot; alt=&quot;team picture&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/bh_group_pic.jpg&quot; alt=&quot;team picture&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Going forward, one of my teammates and I have committed 
 to staying in touch with Ailed and maintaining the app post-graduation.&lt;/p&gt;
@@ -222,8 +222,8 @@ records out or want confirmation of their submissions&lt;/li&gt;
 
 </description>
         <pubDate>Thu, 23 Jun 2016 00:00:00 +0000</pubDate>
-        <link>/portfolio/bernal-heights/</link>
-        <guid isPermaLink="true">/portfolio/bernal-heights/</guid>
+        <link>http://candychang.github.io/portfolio/bernal-heights/</link>
+        <guid isPermaLink="true">http://candychang.github.io/portfolio/bernal-heights/</guid>
         
         
         <category>portfolio</category>
@@ -262,19 +262,19 @@ interviews as we slowly narrowed our focus to enhancing the cooking experience.&
 
 &lt;div class=&quot;slick-carousel&quot;&gt;
   &lt;div&gt;
-    &lt;img class=&quot;centered-img&quot; src=&quot;/images/zest_brainstorm_a.jpg&quot; alt=&quot;brainstorm ideas&quot; itemprop=&quot;image&quot; /&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;http://candychang.github.io/images/zest_brainstorm_a.jpg&quot; alt=&quot;brainstorm ideas&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
   &lt;div&gt;
-     &lt;img class=&quot;centered-img&quot; src=&quot;/images/zest_brainstorm_b.jpg&quot; alt=&quot;brainstorm ideas&quot; itemprop=&quot;image&quot; /&gt;
+     &lt;img class=&quot;centered-img&quot; src=&quot;http://candychang.github.io/images/zest_brainstorm_b.jpg&quot; alt=&quot;brainstorm ideas&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
   &lt;div&gt;
-     &lt;img class=&quot;centered-img&quot; src=&quot;/images/zest_brainstorm_c.jpg&quot; alt=&quot;brainstorm ideas&quot; itemprop=&quot;image&quot; /&gt;
+     &lt;img class=&quot;centered-img&quot; src=&quot;http://candychang.github.io/images/zest_brainstorm_c.jpg&quot; alt=&quot;brainstorm ideas&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
   &lt;div&gt;
-     &lt;img class=&quot;centered-img&quot; src=&quot;/images/zest_brainstorm_d.jpg&quot; alt=&quot;brainstorm ideas&quot; itemprop=&quot;image&quot; /&gt;
+     &lt;img class=&quot;centered-img&quot; src=&quot;http://candychang.github.io/images/zest_brainstorm_d.jpg&quot; alt=&quot;brainstorm ideas&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
   &lt;div&gt;
-     &lt;img class=&quot;centered-img&quot; src=&quot;/images/zest_brainstorm_e.jpg&quot; alt=&quot;brainstorm ideas&quot; itemprop=&quot;image&quot; /&gt;
+     &lt;img class=&quot;centered-img&quot; src=&quot;http://candychang.github.io/images/zest_brainstorm_e.jpg&quot; alt=&quot;brainstorm ideas&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;Some of the ideas I contributed to the brainstorming sessions&lt;/figcaption&gt;
@@ -287,7 +287,7 @@ to see how he set up his cooking space, however, he grabbed his laptop and
 placed it on top of the trashcan! It had become such a regular thing for him 
 that he didn’t think to bring it up when I asked at first.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/trashcan_music.jpg&quot; alt=&quot;laptop on trashcan&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/trashcan_music.jpg&quot; alt=&quot;laptop on trashcan&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The user needs we concluded from our interviews:
 - control devices without getting them dirty or breaking workflow
@@ -298,7 +298,7 @@ that he didn’t think to bring it up when I asked at first.&lt;/p&gt;
 
 &lt;h3 id=&quot;prototypes&quot;&gt;Prototypes&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/zest_midterm_prototypes.jpg&quot; alt=&quot;three prototypes&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/zest_midterm_prototypes.jpg&quot; alt=&quot;three prototypes&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We created three different prototypes for our midterm tradeshow. They each tested a 
 different aspect of our cooking ideas. Mr. Pan was the interactive cooking teacher,
@@ -336,7 +336,7 @@ were sold separately and could integrate with their existing products&lt;/li&gt;
 
 &lt;h3 id=&quot;concept-selection&quot;&gt;Concept Selection&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/zest_concept_selection.jpg&quot; alt=&quot;concept matrix&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/zest_concept_selection.jpg&quot; alt=&quot;concept matrix&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Post-tradeshow, we evaluated the three prototypes against what we learned from 
 the survey feedback. Mr. Pan and the Smart Cutting Board both were well-received
@@ -359,7 +359,7 @@ To lock down finer details of our new prototype, we conducted
 about 30 more short interviews to find the most needed features.&lt;/p&gt;
 
 &lt;h3 id=&quot;final-prototype&quot;&gt;Final Prototype&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/images/zest.jpg&quot; alt=&quot;zest demo&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/zest.jpg&quot; alt=&quot;zest demo&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Sensor set-up demo. The prototypes were 3-D printed by one of my teammates.&lt;/figcaption&gt;
 
 &lt;p&gt;Zest is a collection of sensors that can be attached to various cooking implements
@@ -368,7 +368,7 @@ contextual cooking instructions and notifications. The sensors also act as
 volume control, so no matter where you are in your kitchen you can adjust your
 entertainment as you wish.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;centered-img&quot; src=&quot;/images/zest_roadmap.png&quot; alt=&quot;recipe flow&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;centered-img&quot; src=&quot;http://candychang.github.io/images/zest_roadmap.png&quot; alt=&quot;recipe flow&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Stages of an amateur cook&lt;/figcaption&gt;
 
 &lt;p&gt;We designed Zest with the above roadmap in mind. I spoke with many people who
@@ -390,7 +390,7 @@ more user testing if we had the time. Zest provided not only cooking instruction
 but music control as well — this meant parceling out screen estate accordingly
 and deciding what to show and what to hide away.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/zest_prototype_stitched.jpg&quot; alt=&quot;rough UI sketches&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/zest_prototype_stitched.jpg&quot; alt=&quot;rough UI sketches&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Rough sketches for UI design&lt;/figcaption&gt;
 
 &lt;p&gt;This time I used Invision to string together the views, since we
@@ -403,19 +403,19 @@ two parts for easier desktop viewing.&lt;/p&gt;
 
 &lt;div class=&quot;slick-carousel&quot;&gt;
   &lt;div&gt;
-    &lt;img src=&quot;/images/invision_screenshot.png&quot; alt=&quot;invision screenshot&quot; itemprop=&quot;image&quot; /&gt;
+    &lt;img src=&quot;http://candychang.github.io/images/invision_screenshot.png&quot; alt=&quot;invision screenshot&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
   &lt;div&gt;
-     &lt;img src=&quot;/images/zest_onboarding_flow.png&quot; alt=&quot;onboarding flow&quot; itemprop=&quot;image&quot; /&gt;
+     &lt;img src=&quot;http://candychang.github.io/images/zest_onboarding_flow.png&quot; alt=&quot;onboarding flow&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
   &lt;div&gt;
-     &lt;img src=&quot;/images/zest_choose_recipe.png&quot; alt=&quot;choose recipe flow&quot; itemprop=&quot;image&quot; /&gt;
+     &lt;img src=&quot;http://candychang.github.io/images/zest_choose_recipe.png&quot; alt=&quot;choose recipe flow&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
   &lt;div&gt;
-     &lt;img src=&quot;/images/zest_recipe_screens_1.png&quot; alt=&quot;recipe flow&quot; itemprop=&quot;image&quot; /&gt;
+     &lt;img src=&quot;http://candychang.github.io/images/zest_recipe_screens_1.png&quot; alt=&quot;recipe flow&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
   &lt;div&gt;
-     &lt;img src=&quot;/images/zest_recipe_screens_2.png&quot; alt=&quot;recipe flow&quot; itemprop=&quot;image&quot; /&gt;
+     &lt;img src=&quot;http://candychang.github.io/images/zest_recipe_screens_2.png&quot; alt=&quot;recipe flow&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -445,12 +445,12 @@ doubling with EECS. If I had been on a team of only CS students, I think we
 would have mostly explored software-only solutions. With more variety in thinkers at 
 the table, we managed to explore many more possibilities!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/zest_members.jpg&quot; alt=&quot;Samsung IoTeam members!&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/zest_members.jpg&quot; alt=&quot;Samsung IoTeam members!&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
-        <link>/portfolio/zest/</link>
-        <guid isPermaLink="true">/portfolio/zest/</guid>
+        <link>http://candychang.github.io/portfolio/zest/</link>
+        <guid isPermaLink="true">http://candychang.github.io/portfolio/zest/</guid>
         
         
         <category>portfolio</category>
@@ -459,7 +459,7 @@ the table, we managed to explore many more possibilities!&lt;/p&gt;
     
       <item>
         <title>PiE Annual Report</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/assets/annual_report.pdf&quot; class=&quot;btn&quot;&gt;Download Report&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://candychang.github.io/assets/annual_report.pdf&quot; class=&quot;btn&quot;&gt;Download Report&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;PiE’s annual reports have historically been 15+ page word documents sent out to
 sponsors at the end of every fiscal year. I redesigned and wrote most of the
@@ -469,8 +469,8 @@ sponsors, alumni, the general public, and potential donors. As of spring 2016,
 sending out this report has helped raise over $10,000 in funding from sponsors.&lt;/p&gt;
 </description>
         <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
-        <link>/portfolio/annual-report/</link>
-        <guid isPermaLink="true">/portfolio/annual-report/</guid>
+        <link>http://candychang.github.io/portfolio/annual-report/</link>
+        <guid isPermaLink="true">http://candychang.github.io/portfolio/annual-report/</guid>
         
         
         <category>portfolio</category>
@@ -480,7 +480,7 @@ sending out this report has helped raise over $10,000 in funding from sponsors.&
       <item>
         <title>Opportune</title>
         <description>&lt;p&gt;&lt;a class=&quot;btn&quot; href=&quot;https://www.hackster.io/mango-innovations/opportune-9cf9a9&quot;&gt;Hackster.io Project Report&lt;/a&gt;
-&lt;a class=&quot;btn-secondary&quot; href=&quot;/assets/PalantirRecruiterContextualInquiry.pdf&quot;&gt;Full Contextual Inquiry&lt;/a&gt;&lt;/p&gt;
+&lt;a class=&quot;btn-secondary&quot; href=&quot;http://candychang.github.io/assets/PalantirRecruiterContextualInquiry.pdf&quot;&gt;Full Contextual Inquiry&lt;/a&gt;&lt;/p&gt;
 
 &lt;iframe src=&quot;https://player.vimeo.com/video/114516289&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -510,11 +510,11 @@ personas using the information&lt;/li&gt;
 &lt;p&gt;We brainstormed possible smartwatch applications as a group, clustering similar
 ideas together and building off of other people’s ideas.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/mangoinnovations_brainstorm.jpg&quot; alt=&quot;post-it brainstorming&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/mangoinnovations_brainstorm.jpg&quot; alt=&quot;post-it brainstorming&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/mango_innovations_firstideas-2.jpg&quot; alt=&quot;news app&quot; width=&quot;220px&quot; /&gt;
-&lt;img src=&quot;/images/mango_innovations_firstideas-3.jpg&quot; alt=&quot;food app&quot; width=&quot;220px&quot; /&gt;
-&lt;img src=&quot;/images/mango_innovations_firstideas-4.jpg&quot; alt=&quot;carpool app&quot; width=&quot;220px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/mango_innovations_firstideas-2.jpg&quot; alt=&quot;news app&quot; width=&quot;220px&quot; /&gt;
+&lt;img src=&quot;http://candychang.github.io/images/mango_innovations_firstideas-3.jpg&quot; alt=&quot;food app&quot; width=&quot;220px&quot; /&gt;
+&lt;img src=&quot;http://candychang.github.io/images/mango_innovations_firstideas-4.jpg&quot; alt=&quot;carpool app&quot; width=&quot;220px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I illustrated our top three concepts to present at our initial design review.
 In the end, however, we chose a fourth idea that we bounced around during the 
@@ -524,7 +524,7 @@ recruiters and job seekers at career fairs.&lt;/p&gt;
 
 &lt;h3 id=&quot;user-studies&quot;&gt;User Studies&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/career_fair.jpg&quot; alt=&quot;career fair sketches&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/career_fair.jpg&quot; alt=&quot;career fair sketches&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I visited career fairs to make observations and find interview subjects. Happily, 
 at one engineering career fair, I even got permission to perform contextual inquiry 
@@ -576,7 +576,7 @@ times down is important because some students will just leave if they have
 to stand in line for too long. Palantir’s recruiters aim for five minutes per
 person, but it’s really hard to keep to that goal.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/palantir_student_graph.png&quot; alt=&quot;students at booth over time&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/palantir_student_graph.png&quot; alt=&quot;students at booth over time&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Things they carried: the top five ways students held their resumes&lt;/p&gt;
 
@@ -602,7 +602,7 @@ conducted by teammates, we came up with a few important user needs:&lt;/p&gt;
 
 &lt;h3 id=&quot;prototype-design&quot;&gt;Prototype Design&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/toq_tagging.jpg&quot; alt=&quot;tagging candidate info&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/toq_tagging.jpg&quot; alt=&quot;tagging candidate info&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We designed our prototype to fulfill features based on the key user needs
 we highlighted from our studies: contact exchange, tagging, and third-party 
@@ -624,7 +624,7 @@ to port all the information into a company’s CMS.&lt;/p&gt;
 &lt;p&gt;I was in charge of the visual/UI design for the prototype’s watch and mobile views.
 This included designing the logo: a stylized representation of a handshake.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;centered-img&quot; src=&quot;/images/opportune_logo.png&quot; alt=&quot;opportune logo&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;centered-img&quot; src=&quot;http://candychang.github.io/images/opportune_logo.png&quot; alt=&quot;opportune logo&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Designing for the Toq watch was mostly about figuring out what was
 supported by the SDK, and what things to give up on at the design stage
@@ -632,7 +632,7 @@ because of hardware and software limitations. Possible interactions like
 bumping watches or sliding cards across to each other were ruled out at
 the sketching stage.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/opportune_sketches_b.jpg&quot; alt=&quot;toq sketches&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/opportune_sketches_b.jpg&quot; alt=&quot;toq sketches&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Smartwatch sketches&lt;/figcaption&gt;
 
 &lt;p&gt;The biggest challenge for the mobile views was working out how to fit
@@ -640,24 +640,24 @@ so much information within a small screen. I ended up going with an
 accordion pattern, with the main job title and company visible and
 details hidden by default.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/opportune_sketches_a.jpg&quot; alt=&quot;rough UI sketches&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/opportune_sketches_a.jpg&quot; alt=&quot;rough UI sketches&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Sketching possible layouts&lt;/figcaption&gt;
 
 &lt;div class=&quot;slick-carousel&quot;&gt;
   &lt;div&gt;
-    &lt;img class=&quot;centered-img&quot; src=&quot;/images/opportune_initial.jpg&quot; alt=&quot;initial login&quot; itemprop=&quot;image&quot; /&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;http://candychang.github.io/images/opportune_initial.jpg&quot; alt=&quot;initial login&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
   &lt;div&gt;
-    &lt;img class=&quot;centered-img&quot; src=&quot;/images/opportune_login.jpg&quot; alt=&quot;logging in&quot; itemprop=&quot;image&quot; /&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;http://candychang.github.io/images/opportune_login.jpg&quot; alt=&quot;logging in&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
   &lt;div&gt;
-    &lt;img class=&quot;centered-img&quot; src=&quot;/images/opportune_schools.jpg&quot; alt=&quot;school view&quot; itemprop=&quot;image&quot; /&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;http://candychang.github.io/images/opportune_schools.jpg&quot; alt=&quot;school view&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
   &lt;div&gt;
-    &lt;img class=&quot;centered-img&quot; src=&quot;/images/opportune_candidates.jpg&quot; alt=&quot;school view&quot; itemprop=&quot;image&quot; /&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;http://candychang.github.io/images/opportune_candidates.jpg&quot; alt=&quot;school view&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
   &lt;div&gt;
-    &lt;img class=&quot;centered-img&quot; src=&quot;/images/opportune_profile.jpg&quot; alt=&quot;school view&quot; itemprop=&quot;image&quot; /&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;http://candychang.github.io/images/opportune_profile.jpg&quot; alt=&quot;school view&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -676,11 +676,11 @@ like high-salaried tech workers, are more likely to have them.&lt;/p&gt;
 promoted. Smartwatch technology and design has advanced since then, and it’s
 exciting to think that some of our early ideas might be possible to achieve now.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/mango_final_group_pic.jpg&quot; alt=&quot;opportune group picture&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/mango_final_group_pic.jpg&quot; alt=&quot;opportune group picture&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Jun 2016 00:00:00 +0000</pubDate>
-        <link>/portfolio/opportune/</link>
-        <guid isPermaLink="true">/portfolio/opportune/</guid>
+        <link>http://candychang.github.io/portfolio/opportune/</link>
+        <guid isPermaLink="true">http://candychang.github.io/portfolio/opportune/</guid>
         
         
         <category>portfolio</category>
@@ -700,17 +700,17 @@ sketched out ideas and ran them by the CEO. Once she was satisfied, I made
 higher fidelity mockups in Photoshop. By the end of my internship I had produced 
 mockups for all the main functionalities available in the mobile app at that time.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/captureproof_sketch.png&quot; alt=&quot;UI sketches&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/captureproof_sketch.png&quot; alt=&quot;UI sketches&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Sketches&lt;/figcaption&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/captureproof_process.png&quot; alt=&quot;initial screen to final&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/captureproof_process.png&quot; alt=&quot;initial screen to final&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;From initial view to re-design&lt;/figcaption&gt;
 
 &lt;h3 id=&quot;wireframes&quot;&gt;Wireframes&lt;/h3&gt;
 
 &lt;p&gt;&lt;a class=&quot;btn&quot; href=&quot;https://drive.google.com/open?id=0B0ssrMcyToYUQUJnOG5WaDhiTDA&quot;&gt;See all wireframes&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/captureproof_balsamiq.png&quot; alt=&quot;Balsamiq mockup of sign-up page&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/captureproof_balsamiq.png&quot; alt=&quot;Balsamiq mockup of sign-up page&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;The sign-up process&lt;/figcaption&gt;
 
 &lt;p&gt;The CEO wanted a re-design of the onboarding process, to make the mobile
@@ -720,8 +720,8 @@ app, then re-creating a similar flow with the mobile app.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
-        <link>/portfolio/captureproof/</link>
-        <guid isPermaLink="true">/portfolio/captureproof/</guid>
+        <link>http://candychang.github.io/portfolio/captureproof/</link>
+        <guid isPermaLink="true">http://candychang.github.io/portfolio/captureproof/</guid>
         
         
         <category>portfolio</category>
@@ -756,7 +756,7 @@ encouraging them to explore.&lt;/p&gt;
 
 &lt;h3 id=&quot;visual-design&quot;&gt;Visual Design&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/derive_colors.png&quot; alt=&quot;derive color palette&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/derive_colors.png&quot; alt=&quot;derive color palette&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I usually start off with rough sketches of screens and how they flow together, 
 but for this project, I started with the colors and patterns above. There
@@ -764,7 +764,7 @@ are far more colors than I usually work with, because I wanted to represent
 the possibilities of adventure, and the many facets of a place waiting
 to be explored.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/derive_island_plane.png&quot; alt=&quot;island and plane graphics&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/derive_island_plane.png&quot; alt=&quot;island and plane graphics&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The plane and the island were offhand explorations I made while working on the
 background patterns. They fit the spirit of the app, so I ended up integrating
@@ -781,16 +781,16 @@ presentation would also keep users from feeling like stopping halfway through.&l
 
 &lt;div class=&quot;slick-carousel&quot;&gt;
   &lt;div&gt;
-    &lt;img class=&quot;centered-img&quot; src=&quot;/images/derive_activity_drawn.jpg&quot; alt=&quot;activity level&quot; itemprop=&quot;image&quot; /&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;http://candychang.github.io/images/derive_activity_drawn.jpg&quot; alt=&quot;activity level&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
   &lt;div&gt;
-    &lt;img class=&quot;centered-img&quot; src=&quot;/images/derive_safety.jpg&quot; alt=&quot;safety level&quot; itemprop=&quot;image&quot; /&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;http://candychang.github.io/images/derive_safety.jpg&quot; alt=&quot;safety level&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
   &lt;div&gt;
-    &lt;img class=&quot;centered-img&quot; src=&quot;/images/derive_environ_vars.jpg&quot; alt=&quot;environment preferences&quot; itemprop=&quot;image&quot; /&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;http://candychang.github.io/images/derive_environ_vars.jpg&quot; alt=&quot;environment preferences&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
   &lt;div&gt;
-    &lt;img class=&quot;centered-img&quot; src=&quot;/images/derive_randomizer.jpg&quot; alt=&quot;randomizer&quot; itemprop=&quot;image&quot; /&gt;
+    &lt;img class=&quot;centered-img&quot; src=&quot;http://candychang.github.io/images/derive_randomizer.jpg&quot; alt=&quot;randomizer&quot; itemprop=&quot;image&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -828,8 +828,8 @@ dérives would be a good reminder to savor the journey — and make the effort
 to have one in the first place! — instead of skipping directly to the end.&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
-        <link>/portfolio/derive/</link>
-        <guid isPermaLink="true">/portfolio/derive/</guid>
+        <link>http://candychang.github.io/portfolio/derive/</link>
+        <guid isPermaLink="true">http://candychang.github.io/portfolio/derive/</guid>
         
         
         <category>portfolio</category>
@@ -849,8 +849,8 @@ instead of just making digital mockups is great!&lt;/p&gt;
 &lt;iframe frameborder=&quot;0&quot; height=&quot;328&quot; scrolling=&quot;no&quot; src=&quot;https://www.hackster.io/candychang/design-01-watches-in-the-wild-ca1f16/embed?use_route=project&quot; width=&quot;350&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Thu, 16 Jun 2016 00:00:00 +0000</pubDate>
-        <link>/portfolio/watch-in-the-wild/</link>
-        <guid isPermaLink="true">/portfolio/watch-in-the-wild/</guid>
+        <link>http://candychang.github.io/portfolio/watch-in-the-wild/</link>
+        <guid isPermaLink="true">http://candychang.github.io/portfolio/watch-in-the-wild/</guid>
         
         
         <category>portfolio</category>
@@ -868,8 +868,8 @@ It’s an experiment, half to get me to create more content on a regular basis, 
 
 </description>
         <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
-        <link>/sketchbook/hello-world/</link>
-        <guid isPermaLink="true">/sketchbook/hello-world/</guid>
+        <link>http://candychang.github.io/sketchbook/hello-world/</link>
+        <guid isPermaLink="true">http://candychang.github.io/sketchbook/hello-world/</guid>
         
         <category>notes</category>
         
