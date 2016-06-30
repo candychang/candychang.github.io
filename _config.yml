@@ -5,9 +5,9 @@ description: Candy Chang's personal website and portfolio
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-# url: http://candychang.github.io
+url: http://candychang.github.io
 # url: http://127.0.0.1:4000
-url: ''
+# url: ''
 
 # Jekyll configuration
 
@@ -17,7 +17,7 @@ sass:
 permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
-highlighter: pygments
+highlighter: rouge
 gems:
   - jekyll-sitemap
 
