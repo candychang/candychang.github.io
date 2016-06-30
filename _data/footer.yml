@@ -1,7 +1,7 @@
 # Footer navigation links
 
 - title: home
-  url: site.url
+  url: ''
 
 - title: about
   url: /about/
