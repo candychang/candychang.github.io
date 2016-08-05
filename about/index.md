@@ -9,7 +9,7 @@ ads: false
 <div class="two-col">
     <div class="left-col">
         <img src="{{ site.url }}/images/profile_b.jpg" alt="this is me" itemprop="image">
-        <figcaption>Hi! I'm Candy.</figcaption>
+        <figcaption>Hello! Nice to meet you.</figcaption>
     </div>
     <div class="right-col">
         <p class="right-col-top">Hi! My name is Candace Chang. 
