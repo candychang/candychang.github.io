@@ -31,6 +31,12 @@ a small non-profit that provides social programs for seniors and youth,
 and fosters neighborhood activism to solve local problems. We made this as part
 of CS169, Software Engineering as a Service.
 
+Based on client conversations, we developed three main functionalities for this app:
+
+* Gather, manage and share hotspot form information
+* Provide a centralized calendar for BHNC and resident-created events
+* Share useful resources with residents in one accessible location
+
 ### Involvement
 Everyone on the team contributed to both design and implementation, which was 
 a really great experience after group projects with mostly distributed roles. As
@@ -90,17 +96,9 @@ was inputting all the information by hand into Google Maps in order to get a
 visualization of problem spots.
 
 Ailed also wanted to get residents more involved in resolving their own problems.
-Besides hotspot walks, there are also community meetings, park cleanups, and other
+Besides hotspot walks, there were also community meetings, park cleanups, and other
 events that Ailed wanted to easily share with residents. She had tried using Nextdoor
-but found it too time-consuming to manage and too cluttered with other topics
-to get her information across.
-
-Based on these conversations with Ailed and Esme, we established three
-main functionalities of the requested web app:
-
-* Gather, manage and share hotspot form information
-* Provide a centralized calendar for BHNC and resident-created events
-* Share useful resources with residents in one accessible location
+but found it too broad for her needs.
 
 ### Design Process
 
@@ -201,24 +199,10 @@ and implementation, and I enjoyed that immensely. I also liked learning how to
 test with Cucumber, which made it easier to focus discussion about app
 features on user needs instead of specific technologies or implementation.
 
-Although we won't all be continuing to work on this app, I couldn't have asked 
-for a better group of people to work with during the semester.
+I couldn't have asked for a better group of people to work with during the semester.
 I'll miss getting their Slack notifications :)
 
 <img src="{{ site.url }}/images/bh_group_pic.jpg" alt="team picture" itemprop="image">
-
-Going forward, one of my teammates and I have committed 
-to staying in touch with Ailed and maintaining the app post-graduation.
-
-Some of our plans:
-
-- make UX better for certain groups of neighbors - those who would like to print
-  records out or want confirmation of their submissions
-- add the attach photo functionality to hotspot forms
-- cluster hotspots that are about the same location
-- unify visual design, and also match look and feel of app better to the characteristics of BHNC
-
-
 
 
 
