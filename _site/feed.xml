@@ -5,8 +5,8 @@
     <description>Candy Chang&#39;s personal website and portfolio</description>
     <link>http://candychang.github.io/</link>
     <atom:link href="http://candychang.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Jun 2016 02:51:46 +0000</pubDate>
-    <lastBuildDate>Thu, 30 Jun 2016 02:51:46 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Aug 2016 01:17:15 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Aug 2016 01:17:15 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -26,6 +26,14 @@ in Bernal Heights, San Francisco. Our client was the
 a small non-profit that provides social programs for seniors and youth, 
 and fosters neighborhood activism to solve local problems. We made this as part
 of CS169, Software Engineering as a Service.&lt;/p&gt;
+
+&lt;p&gt;Based on client conversations, we developed three main functionalities for this app:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gather, manage and share hotspot form information&lt;/li&gt;
+  &lt;li&gt;Provide a centralized calendar for BHNC and resident-created events&lt;/li&gt;
+  &lt;li&gt;Share useful resources with residents in one accessible location&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;involvement&quot;&gt;Involvement&lt;/h3&gt;
 &lt;p&gt;Everyone on the team contributed to both design and implementation, which was 
@@ -90,19 +98,9 @@ was inputting all the information by hand into Google Maps in order to get a
 visualization of problem spots.&lt;/p&gt;
 
 &lt;p&gt;Ailed also wanted to get residents more involved in resolving their own problems.
-Besides hotspot walks, there are also community meetings, park cleanups, and other
+Besides hotspot walks, there were also community meetings, park cleanups, and other
 events that Ailed wanted to easily share with residents. She had tried using Nextdoor
-but found it too time-consuming to manage and too cluttered with other topics
-to get her information across.&lt;/p&gt;
-
-&lt;p&gt;Based on these conversations with Ailed and Esme, we established three
-main functionalities of the requested web app:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Gather, manage and share hotspot form information&lt;/li&gt;
-  &lt;li&gt;Provide a centralized calendar for BHNC and resident-created events&lt;/li&gt;
-  &lt;li&gt;Share useful resources with residents in one accessible location&lt;/li&gt;
-&lt;/ul&gt;
+but found it too broad for her needs.&lt;/p&gt;
 
 &lt;h3 id=&quot;design-process&quot;&gt;Design Process&lt;/h3&gt;
 
@@ -201,24 +199,10 @@ and implementation, and I enjoyed that immensely. I also liked learning how to
 test with Cucumber, which made it easier to focus discussion about app
 features on user needs instead of specific technologies or implementation.&lt;/p&gt;
 
-&lt;p&gt;Although we won’t all be continuing to work on this app, I couldn’t have asked 
-for a better group of people to work with during the semester.
+&lt;p&gt;I couldn’t have asked for a better group of people to work with during the semester.
 I’ll miss getting their Slack notifications :)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/bh_group_pic.jpg&quot; alt=&quot;team picture&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Going forward, one of my teammates and I have committed 
-to staying in touch with Ailed and maintaining the app post-graduation.&lt;/p&gt;
-
-&lt;p&gt;Some of our plans:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;make UX better for certain groups of neighbors - those who would like to print
-records out or want confirmation of their submissions&lt;/li&gt;
-  &lt;li&gt;add the attach photo functionality to hotspot forms&lt;/li&gt;
-  &lt;li&gt;cluster hotspots that are about the same location&lt;/li&gt;
-  &lt;li&gt;unify visual design, and also match look and feel of app better to the characteristics of BHNC&lt;/li&gt;
-&lt;/ul&gt;
 
 </description>
         <pubDate>Thu, 23 Jun 2016 00:00:00 +0000</pubDate>
@@ -235,14 +219,14 @@ records out or want confirmation of their submissions&lt;/li&gt;
         <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/j18eTHD7LU4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;An IoT cooking experience integrating sensors and existing devices. 
-Worked with a team of five mechanical engineers. Class project for ME110, 
-New Product Development. Prompt from our sponsors, Samsung: 
-“Leisure and Entertainment,” ideally something using speakers and sensors.&lt;/p&gt;
+&lt;p&gt;I worked with a team of five mechanical engineers to develop a prototype for an 
+IoT cooking experience integrating sensors and existing devices. This was a 
+class project for ME110, New Product Development. The prompt from our sponsors, 
+Samsung, was “Leisure and Entertainment,” ideally something using speakers and sensors.&lt;/p&gt;
 
 &lt;h3 id=&quot;involvement&quot;&gt;Involvement&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Participated in all aspects of product development process&lt;/li&gt;
+  &lt;li&gt;Contributed to all aspects of product development process&lt;/li&gt;
   &lt;li&gt;Created interactive prototypes in Marvel and Invision&lt;/li&gt;
   &lt;li&gt;Prepared decks and led presentations&lt;/li&gt;
 &lt;/ul&gt;
@@ -289,27 +273,32 @@ that he didn’t think to bring it up when I asked at first.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/trashcan_music.jpg&quot; alt=&quot;laptop on trashcan&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The user needs we concluded from our interviews:
-- control devices without getting them dirty or breaking workflow
-- adapt to changing environment with little user involvement (sounds, placement in the kitchen)
-- improve cooking skills
-- share accomplishments with friends family
-- figure out what to cook&lt;/p&gt;
+&lt;p&gt;The user needs we concluded from our interviews:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;control devices without getting them dirty or breaking workflow&lt;/li&gt;
+  &lt;li&gt;adapt to changing environment with little user involvement (sounds, placement in the kitchen)&lt;/li&gt;
+  &lt;li&gt;improve cooking skills&lt;/li&gt;
+  &lt;li&gt;share accomplishments with friends family&lt;/li&gt;
+  &lt;li&gt;figure out what to cook&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;prototypes&quot;&gt;Prototypes&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/zest_midterm_prototypes.jpg&quot; alt=&quot;three prototypes&quot; itemprop=&quot;image&quot; height=&quot;300px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We created three different prototypes for our midterm tradeshow. They each tested a 
-different aspect of our cooking ideas. Mr. Pan was the interactive cooking teacher,
-the Smart Cutting Board could display videos and recipes, and Basket was a cooking
-challenge app where friends could challenge each other to cook with random ingredients.&lt;/p&gt;
+different aspect of our cooking ideas.&lt;/p&gt;
 
-&lt;p&gt;The prototypes were at different levels of fidelity and functionality to test different
-things. Mr. Pan was hooked up to an Arduino and would react to someone “cooking” inside
-of it. The Smart Cutting Board was literally an iPad displaying a few screen mockups. 
-Basket was a low-fi interactive prototype made in Marvel, to see if people understood
-the concept and found it interesting.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mr. Pan: interactive cooking pan. We hooked up a pan to an Arduino, and
+         programmed it to play relevant music when someone started “cooking” 
+         inside of it&lt;/li&gt;
+  &lt;li&gt;Smart Cutting Board: displayed videos and recipes. We displayed mockups on
+         an iPad and had people interact with it using plastic utensils.&lt;/li&gt;
+  &lt;li&gt;Basket: a cooking challenge app. We tested the concept with a low-fi 
+         interactive prototype made in Marvel.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;I was in charge of creating the Basket prototype. I chose to use Marvel as my prototyping
 tool because I could take pictures of my sketched mockups and turn those directly into
@@ -380,9 +369,7 @@ or go through the effort of preparing it when take-out was readily available.&lt
 
 &lt;p&gt;We wanted to make a product that could support people at every stage of the
 cooking process, transitioning them from finding it a chore, to becoming eager
-to learn more, to getting creative and sharing their success. We even thought
-about adding an “orchestra mode,” where music would change according to
-a user’s actions in the kitchen — a throwback to Mr. Pan.&lt;/p&gt;
+to learn more, to getting creative and sharing their success.&lt;/p&gt;
 
 &lt;p&gt;I was in charge of creating the mobile app portion of the prototype. It was
 challenging to work out the recipe screens, and they could have done with
@@ -461,12 +448,21 @@ the table, we managed to explore many more possibilities!&lt;/p&gt;
         <title>PiE Annual Report</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://candychang.github.io/assets/annual_report.pdf&quot; class=&quot;btn&quot;&gt;Download Report&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;I designed and wrote most of the copy for PiE’s 2014-2015 report, which covers 
+PiE during my year as director. As of spring 2016, sending out this report has 
+helped raise over $10,000 in funding from sponsors. This is almost one-fourth of 
+our typical operating budget, which was $45,000 for the 2014-2015 year.&lt;/p&gt;
+
 &lt;p&gt;PiE’s annual reports have historically been 15+ page word documents sent out to
-sponsors at the end of every fiscal year. I redesigned and wrote most of the
-copy for the 2014-2015 report, which covers PiE during my year as director. 
-I incorporated plenty of images and statistics to make our impact clearer to 
-sponsors, alumni, the general public, and potential donors. As of spring 2016, 
-sending out this report has helped raise over $10,000 in funding from sponsors.&lt;/p&gt;
+sponsors at the end of every fiscal year. Design aside, the content of the
+reports was often better for internal reflection than external reporting.
+I focused the content on information relevant to sponsors and the general
+public, leveraging photos and graphics to show our accomplishments.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/pie_report_2014_samples.jpg&quot; alt=&quot;old PiE report finances page&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Financials pages from the old report.&lt;/figcaption&gt;
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/pie_report_donors_sample.jpg&quot; alt=&quot;redesigned PiE report  finances page&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;The redesigned financials pages in the 2015 report.&lt;/figcaption&gt;
 </description>
         <pubDate>Tue, 21 Jun 2016 00:00:00 +0000</pubDate>
         <link>http://candychang.github.io/portfolio/annual-report/</link>
@@ -717,6 +713,24 @@ mockups for all the main functionalities available in the mobile app at that tim
 and web applications feel consistent. I was tasked with creating Balsamiq
 wireframes for inviting patients and onboarding doctors through the web
 app, then re-creating a similar flow with the mobile app.&lt;/p&gt;
+
+&lt;h3 id=&quot;other-projects&quot;&gt;Other Projects&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://candychang.github.io/images/captureproof_emails.png&quot; alt=&quot;Customer engagement email design&quot; itemprop=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Given the small startup environment, I was also asked to design for immediate
+startup needs.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Customer engagement email design, using MailChimp&lt;/li&gt;
+  &lt;li&gt;Website mockups for the about, FAQ and tutorial pages&lt;/li&gt;
+  &lt;li&gt;Executive summaries for the business lead&lt;/li&gt;
+  &lt;li&gt;Business cards&lt;/li&gt;
+  &lt;li&gt;Stickers&lt;/li&gt;
+  &lt;li&gt;VC deck graphics&lt;/li&gt;
+  &lt;li&gt;Social media graphics&lt;/li&gt;
+  &lt;li&gt;Library of iOS and web assets&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
         <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
