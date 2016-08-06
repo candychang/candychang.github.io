@@ -25,6 +25,7 @@ sketched out ideas and ran them by the CEO. Once she was satisfied, I made
 higher fidelity mockups in Photoshop. By the end of my internship I had produced 
 mockups for all the main functionalities available in the mobile app at that time.
 
+
 <img src="{{ site.url }}/images/captureproof_sketch.png" alt="UI sketches" itemprop="image">
 <figcaption>Sketches</figcaption>
 
@@ -43,6 +44,20 @@ and web applications feel consistent. I was tasked with creating Balsamiq
 wireframes for inviting patients and onboarding doctors through the web
 app, then re-creating a similar flow with the mobile app.
 
+### Other Projects
 
+<img src="{{ site.url }}/images/captureproof_emails.png" alt="Customer engagement email design" itemprop="image">
+
+Given the small startup environment, I was also asked to design for immediate
+startup needs.
+
+- Customer engagement email design, using MailChimp
+- Website mockups for the about, FAQ and tutorial pages
+- Executive summaries for the business lead
+- Business cards
+- Stickers
+- VC deck graphics
+- Social media graphics
+- Library of iOS and web assets
 
 
