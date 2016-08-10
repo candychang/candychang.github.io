@@ -9,7 +9,7 @@
   <subtitle>Candy Chang's personal website and portfolio</subtitle>
   <link href="http://candychang.github.io/atom.xml" rel="self"/>
   <link href="http://candychang.github.io/" rel="alternate" type="text/html"/>
-  <updated>2016-08-06T02:34:57+00:00</updated>
+  <updated>2016-08-10T03:23:52+00:00</updated>
   <id>http://candychang.github.io/</id>
   <author>
     <name>Candy Chang</name>
@@ -720,7 +720,7 @@ exciting to think that some of our early ideas might be possible to achieve now.
     </author>
     <content type="html">
       &lt;img src=&quot;http://candychang.github.io/images/captureproof_postits.jpg&quot;&gt;&lt;br/&gt;
-      &lt;p&gt;I was a Design and UI/UX intern at &lt;a href=&quot;http://captureproof.com/ CaptureProof link&quot;&gt;CaptureProof&lt;/a&gt;, 
+      &lt;p&gt;I was a Design and UI/UX intern at &lt;a href=&quot;http://captureproof.com/&quot; title=&quot;CaptureProof Link&quot;&gt;CaptureProof&lt;/a&gt;, 
 a medical media startup that provides a HIPAA-compliant platform for sharing photos and video
 between doctors and patients.&lt;/p&gt;
 
@@ -787,7 +787,7 @@ startup needs.&lt;/p&gt;
 
 &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;UI design for a hypothetical navigation application based on the Situationist’s 
-&lt;a href=&quot;http://www.cddc.vt.edu/sionline/si/theory.html Theory of the Dérive&quot;&gt;dérive&lt;/a&gt; , 
+&lt;a href=&quot;http://www.cddc.vt.edu/sionline/si/theory.html&quot; title=&quot;Theory of the Dérive&quot;&gt;dérive&lt;/a&gt; , 
 where one “drifts” in an unplanned way through a city, subconsciously guided
 by the architecture and geography of the surroundings.&lt;/p&gt;
 
@@ -901,7 +901,7 @@ interviewing to brainstorming to prototyping to testing.
 It’s very near and dear to me, because any chance to do some crafting
 instead of just making digital mockups is great!&lt;/p&gt;
 
-&lt;p&gt;See the &lt;a href=&quot;https://www.hackster.io/candychang/design-01-watches-in-the-wild-ca1f16 Hackster.io post&quot;&gt;Hackster.io post&lt;/a&gt; for the full design process.&lt;/p&gt;
+&lt;p&gt;See the &lt;a href=&quot;https://www.hackster.io/candychang/design-01-watches-in-the-wild-ca1f16&quot; title=&quot;Hackster.io post&quot;&gt;Hackster.io post&lt;/a&gt; for the full design process.&lt;/p&gt;
 
 &lt;iframe frameborder=&quot;0&quot; height=&quot;328&quot; scrolling=&quot;no&quot; src=&quot;https://www.hackster.io/candychang/design-01-watches-in-the-wild-ca1f16/embed?use_route=project&quot; width=&quot;350&quot;&gt;&lt;/iframe&gt;
 

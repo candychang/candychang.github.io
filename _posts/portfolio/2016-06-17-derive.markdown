@@ -19,7 +19,7 @@ company: CS160 User Interface Design
 
 ## Overview
 UI design for a hypothetical navigation application based on the Situationist's 
-[dérive](http://www.cddc.vt.edu/sionline/si/theory.html Theory of the Dérive) , 
+[dérive](http://www.cddc.vt.edu/sionline/si/theory.html "Theory of the Dérive") , 
 where one "drifts" in an unplanned way through a city, subconsciously guided
 by the architecture and geography of the surroundings. 
 

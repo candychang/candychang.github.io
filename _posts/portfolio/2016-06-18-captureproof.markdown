@@ -14,7 +14,7 @@ date: 2016-06-18
 timeframe: Summer 2014
 company: 
 ---
-I was a Design and UI/UX intern at [CaptureProof](http://captureproof.com/ CaptureProof link), 
+I was a Design and UI/UX intern at [CaptureProof](http://captureproof.com/ "CaptureProof Link"), 
 a medical media startup that provides a HIPAA-compliant platform for sharing photos and video
 between doctors and patients.
 
