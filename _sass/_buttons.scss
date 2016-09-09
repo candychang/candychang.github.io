@@ -12,13 +12,13 @@
 	@include font-size(14);
 	font-family: $alt-font;
 	background-color: $primary-color;
-	color: $white;
+	color: $white !important;
 	text-decoration: none;
 	border: 0 !important;
 	border-radius: 10 * $border-radius;
 	@include transition(background 0.2s, border 0.2s);
 	&:hover {
-		color: $white;
+		color: $white !important;
 		background-color: lighten($primary-color, 50);
 	}
 	&:active {

@@ -206,12 +206,13 @@
 				}
 			}
 			// cleaner underlines for links
-			a { text-decoration: none; }
+			a { text-decoration: none;}
 			p a,
 			li a {
-				border-bottom: 1px dotted lighten($link-color, 50);
+				border-bottom: 1px dashed $info-color;
 				&:hover {
 					border-bottom-style: solid;
+					color: $info-color;
 				}
 			}
 			p > a.reversefootnote {
