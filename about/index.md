@@ -10,8 +10,8 @@ ads: false
     <div class="left-col">
         <img src="{{ site.url }}/images/profile_b.jpg" alt="this is me" itemprop="image">
     </div>
-    <div class="right-col">
-        <p class="right-col-top">Hi! My name is Candace Chang. 
+    <div>
+        <p>Hi! My name is Candace Chang. 
             I've gone by Candy since my sister
             came up with that name while eating candy in the hospital.
         </p>
@@ -21,11 +21,10 @@ ads: false
             user-centered design, while leveraging my background to see the 
             bigger picture and implement my ideas.
         </p>
-        <p>See samples of my work here, and my resume on  
-        <a href="https://www.linkedin.com/in/candyichang">LinkedIn</a>.
-        </p>
+        
     </div>
 </div>
+<a href="{{ site.url }}/assets/CandaceChang_Resume.pdf">Download Resume</a>
 
 
 ### The starting line
@@ -44,7 +43,7 @@ much to fix about this project if I really wanted to make something that
 would be good for students.
 
 These are my humble beginnings. I welcome you to check out the rest of my 
-portfolio, to see the exploring and growing I've been doing since.
+[portfolio]({{ site.url }}/portfolio), to see the exploring and growing I've been doing since.
 
 <div class="slick-carousel">
   <div>
